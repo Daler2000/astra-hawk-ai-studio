@@ -1,0 +1,36 @@
+
+name: Astra Hawk Daily Script
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 13 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Get repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate Astra Hawk episode
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python generate.py
+
+      - name: Save episode
+        run: |
+          git config user.name "Astra Hawk Bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add output/
+          git diff --cached --quiet || git commit -m "Generate daily episode"
+          git push
