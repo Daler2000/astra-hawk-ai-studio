@@ -7,10 +7,7 @@ from pathlib import Path
 
 API_KEY = os.environ["GEMINI_API_KEY"]
 
-URL = (
-    "https://generativelanguage.googleapis.com/"
-    "v1beta/models/gemini-2.5-flash:generateContent"
-)
+URL = url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent"
 
 prompt = """
 You are the head writer of ASTRA HAWK ANIME STUDIO.
