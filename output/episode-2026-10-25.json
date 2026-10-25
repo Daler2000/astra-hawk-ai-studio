@@ -1,0 +1,110 @@
+{
+  "title": "Astra Hawk: Wings of Aeon",
+  "description": "When sky pirates attack her courier ship, Astra Hawk must unleash the ancient power of her falcon mark to protect the heart of the sky city.",
+  "scenes": [
+    {
+      "scene": 1,
+      "duration": 8,
+      "visual": "A futuristic retro-style skyship glides high above a sea of crimson sunset clouds. Astra Hawk stands heroically at the bow, wind whipping through her blonde, medium-length hair.",
+      "camera": "Wide cinematic shot slowly panning around the bow of the skyship before zooming into a medium profile shot of Astra.",
+      "dialogue": "Astra (Narration): 'The skies of Aetheria are unforgiving, but as long as I have air in my lungs, my cargo reaches its mark.'",
+      "video_prompt": "High quality anime style, 8k resolution, Astra Hawk, 18 year old female, medium-length blonde hair, red sunset lighting, steampunk skyship flying over clouds, dynamic wind effect, detailed anime art."
+    },
+    {
+      "scene": 2,
+      "duration": 8,
+      "visual": "Astra kneels by a reinforced brass case on the deck. She pops the latches, revealing a radiant, pulsating blue crystal—the Aeon Core. Her rolled-up left sleeve displays a crisp black falcon tattoo on her upper arm.",
+      "camera": "Close-up shot focusing on the crystal light reflecting in her blue eyes, then tilting down to highlight the detailed falcon tattoo on her left arm.",
+      "dialogue": "Astra: 'Hold on tight, little light. Just one more league to the capital spire.'",
+      "video_prompt": "Anime close-up, Astra Hawk, blonde medium hair, blue eyes looking at a glowing blue crystal relic inside a metal case, black falcon tattoo visible on left arm, soft cinematic lighting, ufotable animation style."
+    },
+    {
+      "scene": 3,
+      "duration": 8,
+      "visual": "Dark storm clouds abruptly swallow the sunset. Red warning lights flash across the ship deck as three jagged, black pirate dreadnoughts descend from the thunderheads.",
+      "camera": "Fast tilt-up from Astra's face to the looming black ships overhead, followed by a rapid shake to simulate alarms and turbulence.",
+      "dialogue": "Astra: 'Shadow Wings... Of course they wouldn't let me finish a run in peace!'",
+      "video_prompt": "Dramatic anime action sequence, sudden dark clouds, red alarm flash, menacing black pirate skyships swooping down, intense lightning bolts, high contrast shadows."
+    },
+    {
+      "scene": 4,
+      "duration": 8,
+      "visual": "Heavy steel harpoons smash into the deck of Astra's ship. Cybernetic pirate drones zip down the cables, landing aggressively. Astra snaps her case shut and unholsters twin high-tech plasma daggers.",
+      "camera": "Tracking shot following the harpoons as they pierce the deck, panning quickly to Astra striking a battle stance.",
+      "dialogue": "Astra: 'Boarding party! Let's see if you can keep up!'",
+      "video_prompt": "Action anime scene, Astra Hawk holding dual glowing cyan plasma daggers, combat stance, dark cybernetic pirate drones landing on wooden skyship deck, rain drops and sparks flying."
+    },
+    {
+      "scene": 5,
+      "duration": 8,
+      "visual": "Astra leaps across the deck with superhuman agility, slicing through three pirate drones in a flash of glowing cyan blade trails and explosive sparks.",
+      "camera": "Fast-paced dynamic action camera, orbiting Astra as she spins and slashes through enemy ranks in slow motion impact frames.",
+      "dialogue": "Astra: 'Ha! Too slow on the draw!'",
+      "video_prompt": "Fast anime fight scene, blonde female warrior slashing robotic enemies, brilliant cyan light trails, dynamic motion blur, sparks, high adrenaline anime sakuga animation."
+    },
+    {
+      "scene": 6,
+      "duration": 8,
+      "visual": "A massive armored pirate commander, twice Astra's size, drops heavily onto the deck. His arm transforms into a giant glowing plasma cannon aimed straight at Astra.",
+      "camera": "Low-angle shot looking up at the imposing cyborg commander, then cutting to a tight shot of Astra grimacing.",
+      "dialogue": "Pirate Commander: 'Surrender the Aeon Core, girl, or be burned to ash!'",
+      "video_prompt": "Anime villain reveal, massive cyborg pirate captain with a glowing red cannon arm, smoke rising, low angle view, threatening aura, intricate mechanical armor detail."
+    },
+    {
+      "scene": 7,
+      "duration": 8,
+      "visual": "The commander fires a giant red energy blast. Astra crosses her plasma blades to block, but the kinetic force blasts her backward, knocking her against the ship's wheelhouse wall.",
+      "camera": "Horizontal tracking shot following the beam beam hit, then a fast push-in on Astra slumped against the wall, clutching her arm.",
+      "dialogue": "Astra: 'Gah! Heavy artillery... not bad...'",
+      "video_prompt": "Anime explosion impact, Astra Hawk blasted back against wood structure, dust clearing, red energy smoke, bruised but determined expression, anime damage effects."
+    },
+    {
+      "scene": 8,
+      "duration": 8,
+      "visual": "Astra looks down at her left arm. The falcon tattoo begins to glow with blinding azure light, spreading fiery blue energy veins across her skin and up her shoulder.",
+      "camera": "Extreme close-up on the falcon tattoo on Astra's arm as blue flame energy ignites and ripples through the ink pattern.",
+      "dialogue": "Astra: 'Ancient mark of the Hawk... lend me your wings!'",
+      "video_prompt": "Anime energy awakening, glowing blue falcon tattoo on arm, cyan flame aura bursting from skin, electrical arc particles, intense high quality anime visual effects."
+    },
+    {
+      "scene": 9,
+      "duration": 8,
+      "visual": "Astra rises smoothly, eyes glowing electric cyan. A massive, wingspread energy falcon spirit ignites around her body like a fiery ethereal armor.",
+      "camera": "Full shot slow crane up, revealing the huge glowing phantom falcon behind Astra as she levitates inches above the deck.",
+      "dialogue": "Astra: 'Sky's domain belongs to the free!'",
+      "video_prompt": "Epic anime power-up, Astra Hawk surrounded by a giant ethereal blue fire falcon avatar, glowing blue eyes, hair floating in air, epic magical aura, masterpiece visual."
+    },
+    {
+      "scene": 10,
+      "duration": 8,
+      "visual": "Astra shoots forward at lightspeed, morphing into a streak of blue lightning. The energy falcon dives straight through the Pirate Commander's chest armor in a spectacular beam attack.",
+      "camera": "First-person dynamic rush camera following the trajectory of the attack through the enemy, exploding into bright light.",
+      "dialogue": "Astra: 'PERISH IN THE STORM!'",
+      "video_prompt": "Anime climax attack, blue energy bird striking through giant robot, screen shaking, blinding flash of light, epic impact frame, high animation framerate."
+    },
+    {
+      "scene": 11,
+      "duration": 8,
+      "visual": "The shockwave shatters all enemy boarding cables. The pirate ships lose power, tumbling harmlessly away down through the cloud deck into the abyss.",
+      "camera": "Wide angle pull-back showing the pirate vessels falling into dark clouds as Astra's ship breaks free into open light.",
+      "dialogue": "Astra (Narration): 'The shadow falls, but the light remains.'",
+      "video_prompt": "Wide anime perspective, falling dark pirate airships in clouds, bright sunbeam breaking through dark sky, clean blue sky appearing, cinematic scale."
+    },
+    {
+      "scene": 12,
+      "duration": 8,
+      "visual": "Astra's skyship docks cleanly at the peak spire of the golden Sky City of Aetheria. She steps onto the pedestal and slides the glowing Aeon Core into the central power altar.",
+      "camera": "Medium shot tracking Astra as she inserts the relic, panning up to watch the massive ancient machinery lock into place.",
+      "dialogue": "Astra: 'Core secured. City shield... online.'",
+      "video_prompt": "Grand anime sci-fi fantasy city, golden central spire, Astra inserting glowing blue crystal into ancient pedestal, golden and blue light pulses outwards."
+    },
+    {
+      "scene": 13,
+      "duration": 8,
+      "visual": "A massive dome of shimmering golden and azure light expands over the entire sky city, illuminating thousands of floating islands. Astra stands on her ship's deck under clear blue skies, resting her hand on her hip and smiling proudly into the dawn.",
+      "camera": "Sweeping panoramic camera pull-back from Astra's triumphant smile to reveal the magnificent, safe city illuminated by the rising sun.",
+      "dialogue": "Astra: 'Another day, another clear horizon. Time for the next horizon.'",
+      "video_prompt": "Beautiful anime final shot, magnificent floating city protected by glowing magical shield dome, golden sunrise, Astra Hawk smiling proudly, wind blowing blonde hair, peaceful majestic ending."
+    }
+  ]
+}
