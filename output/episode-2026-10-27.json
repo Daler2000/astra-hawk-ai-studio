@@ -1,0 +1,110 @@
+{
+  "title": "Wings of Aetheria: Sky's Awakening",
+  "description": "When rogue mechanical gargoyles attack the floating sky-city of Aetheria, 18-year-old pilot Astra Hawk unleashes the legendary power dormant in her falcon tattoo to protect her home.",
+  "scenes": [
+    {
+      "scene": 1,
+      "duration": 8,
+      "visual": "Twilight settles over Aetheria, a dazzling neo-cyberpunk floating city anchored among glowing clouds. Golden wind currents sweep through massive airships and brass spires.",
+      "camera": "Wide cinematic pan across the floating city skyline, gradually zooming in on a tall clock tower perch.",
+      "dialogue": "Astra (Narration): 'They say the skies belong to those who dare to fall. But tonight, Aetheria needs someone to soar.'",
+      "video_prompt": "High quality anime style, cinematic landscape, floating steampunk cyberpunk city in clouds, golden hour sunset, vivid colors, intricate architecture, Ufotable aesthetic"
+    },
+    {
+      "scene": 2,
+      "duration": 8,
+      "visual": "Astra Hawk stands atop the clock tower edge. She is an 18-year-old girl with medium-length blonde hair blowing in the wind, wearing a dark blue aviator vest. Her left arm features an intricate black falcon tattoo.",
+      "camera": "Medium close-up circling Astra, focusing on her determined expression and the falcon tattoo on her left arm.",
+      "dialogue": "Astra: 'Systems check clear. Time to clear the skies.'",
+      "video_prompt": "Anime style close up, Astra Hawk, 18 year old female anime protagonist, medium length blonde hair, athletic build, detailed falcon tattoo on left arm, leather pilot jacket, wind blowing hair, dynamic cinematic lighting"
+    },
+    {
+      "scene": 3,
+      "duration": 8,
+      "visual": "Dark clouds gather abruptly as a swarm of crimson-eyed obsidian sky-drones descends toward the city's central Aether Power Core.",
+      "camera": "Low angle tilt-up tracking the ominous swarm as lightning crackles across their mechanical frames.",
+      "dialogue": "Astra (Narration): 'The shadow legion... they've come for the core.'",
+      "video_prompt": "Anime action scene, dark mechanical drone monsters with glowing red eyes diving through stormy clouds, lightning flashes, ominous atmosphere, detailed sci-fi animation"
+    },
+    {
+      "scene": 4,
+      "duration": 8,
+      "visual": "Astra leaps off the ledge into the open sky without hesitation, drawing twin energy daggers from her belt.",
+      "camera": "Fast-paced tracking shot following Astra in freefall as wind rushes past her face.",
+      "dialogue": "Astra: 'Not on my watch!'",
+      "video_prompt": "Anime hero dive, Astra Hawk falling through clouds, blonde hair streaming, holding glowing energy daggers, speed lines, high dynamic motion, epic perspective"
+    },
+    {
+      "scene": 5,
+      "duration": 8,
+      "visual": "In mid-air, Astra twists acrobatically, slicing through two attacking sky-drones, sending sparks and mechanical debris flying into the abyss.",
+      "camera": "360-degree rotational slow-motion camera movement around Astra as her blades impact the drones.",
+      "dialogue": "Astra: 'Hah! Too slow!'",
+      "video_prompt": "Anime combat sequence, dynamic sword slash, sparks exploding, neon energy trails, blonde female warrior flipping in air, intricate motion blur, Ufotable style battle effects"
+    },
+    {
+      "scene": 6,
+      "duration": 8,
+      "visual": "A colossal serpentine Commander Drone emerges from the storm clouds, firing a massive beam of dark plasma directly at Astra.",
+      "camera": "Distant wide shot emphasizing the massive scale difference between Astra and the giant serpentine drone.",
+      "dialogue": "Astra: 'Whoa! That's a big one!'",
+      "video_prompt": "Huge mechanical dragon drone shooting red laser beam, giant boss enemy, epic scope, futuristic sky battle, vivid explosions, anime sakuga quality"
+    },
+    {
+      "scene": 7,
+      "duration": 8,
+      "visual": "Astra barely dodges the beam, landing hard on a narrow sky-rail. She grits her teeth as her left arm begins to glow with radiant cyan light.",
+      "camera": "Tight zoom-in on Astra's left arm; the falcon tattoo pulsates and shifts into burning blue energy.",
+      "dialogue": "Astra: 'Ancient mark of the Hawk... lend me your wings!'",
+      "video_prompt": "Anime close up, falcon tattoo on blonde girl's left arm glowing bright cyan blue, magical aura emanating, intense anime power-up shot, detailed skin and glow reflections"
+    },
+    {
+      "scene": 8,
+      "duration": 8,
+      "visual": "Massive wings made of pure golden and cyan light sprout from Astra's back, illuminating the entire overcast sky.",
+      "camera": "Dramatic pull-back camera motion revealing Astra's full angelic energy form against the dark storm clouds.",
+      "dialogue": "Astra: 'Aether Wings, awaken!'",
+      "video_prompt": "Epic anime power transformation, 18 year old blonde female anime hero with glowing light wings, brilliant cyan and gold energy wings, stormy sky background, divine lighting"
+    },
+    {
+      "scene": 9,
+      "duration": 8,
+      "visual": "Astra shoots forward at supersonic speed, leaving a blazing sonic trail of light behind her, instantly closing the gap to the Serpent Commander.",
+      "camera": "First-person perspective dynamic rush shot flying directly into the giant mechanical monster.",
+      "dialogue": "Astra: 'Sky Blade... Full Output!'",
+      "video_prompt": "Supersonic speed flight in anime, light streak trails, hyper-fast camera motion, futuristic sky battle, lens flare, bright cyan and gold effects"
+    },
+    {
+      "scene": 10,
+      "duration": 8,
+      "visual": "Astra executes a swift cross-slash straight through the center core of the Commander Drone, bisecting its heavy armor in a burst of light.",
+      "camera": "Impact freeze-frame shot with intense cross-hatching, followed by a sudden explosive release of energy.",
+      "dialogue": "Astra: 'Break!'",
+      "video_prompt": "Anime climax attack, energy slash cutting giant robot in half, massive luminous explosion, sharp anime key animation, intense visual impact, glowing golden sparks"
+    },
+    {
+      "scene": 11,
+      "duration": 8,
+      "visual": "The remaining sky-drones dissolve into harmless golden dust particles that rain down gently over the glowing city of Aetheria.",
+      "camera": "Wide high-angle camera panning down as glittering light particles cover the peaceful city streets.",
+      "dialogue": "Astra (Narration): 'The darkness fades... and Aetheria breathes again.'",
+      "video_prompt": "Peaceful anime atmosphere, golden sparkling dust falling over floating futuristic city, beautiful serene clouds, clear sky opening up, magical evening light"
+    },
+    {
+      "scene": 12,
+      "duration": 8,
+      "visual": "Astra touches down softly on the apex spire of the Aether Reactor tower. Her light wings gently dissolve back into the falcon tattoo on her left arm.",
+      "camera": "Slow ground-level tracking shot moving up from Astra's boots to her confident smiling face.",
+      "dialogue": "Astra: 'Core is intact. Mission complete.'",
+      "video_prompt": "Anime character landing gracefully, glowing wings fading into falcon tattoo on left arm, blonde girl standing on high tower, sunset breeze blowing vest and hair"
+    },
+    {
+      "scene": 13,
+      "duration": 8,
+      "visual": "Astra looks out over the horizon as the dawn sun breaks through the clouds, her blonde hair catching the morning light. She smiles brightly.",
+      "camera": "Slow cinematic close-up fading into a stunning hero shot of Astra against the radiant sunrise.",
+      "dialogue": "Astra: 'As long as I can fly, these skies will always be safe.'",
+      "video_prompt": "Beautiful anime ending shot, Astra Hawk blonde character looking at magnificent sunrise over clouds, hopeful smile, golden hour backlight, masterpiece quality, cinematic composition"
+    }
+  ]
+}
