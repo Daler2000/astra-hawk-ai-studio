@@ -1,0 +1,110 @@
+{
+  "title": "Wings of the Aetherium",
+  "description": "Astra Hawk races against the clock across the neon skies of Neo-Aethel to stop a rogue syndicate boss from detonating an unstable Aetherium Core.",
+  "scenes": [
+    {
+      "scene": 1,
+      "duration": 8,
+      "visual": "Rain glimmers under bright neon signs across the futuristic metropolis of Neo-Aethel. Astra Hawk stands atop a towering glass spire, gazing down at the bustling city sky-lanes.",
+      "camera": "Slow cinematic zoom-in from a high-angle wide shot of the cityscape down to Astra's silhouette against the glowing neon light.",
+      "dialogue": "Astra (Narration): 'The city never sleeps. And neither do the syndicates trying to tear it apart.'",
+      "video_prompt": "High quality anime aesthetic, 18-year-old female anime character with blonde medium-length hair standing atop a high-tech skyscraper in a rain-slicked cyberpunk city at night, glowing neon lights, cinematic atmosphere, dramatic lighting."
+    },
+    {
+      "scene": 2,
+      "duration": 8,
+      "visual": "Close-up of Astra pulling up her high-tech HUD visor. Her medium-length blonde hair sways in the night breeze. On her bare left arm, her black falcon tattoo glows faintly with blue plasma light.",
+      "camera": "Medium close-up orbiting around Astra, shifting focus to the glowing falcon tattoo on her left arm.",
+      "dialogue": "Astra: 'Target acquired. Rogue Dreadnought-9 is carrying the unstable Aetherium Core.'",
+      "video_prompt": "Anime close-up shot, 18-year-old female anime protagonist, blonde hair blowing gently in wind, sharp confident blue eyes, holographic HUD visor, black falcon tattoo glowing on her left arm, hyper-detailed anime art style."
+    },
+    {
+      "scene": 3,
+      "duration": 8,
+      "visual": "Astra dives off the skyscraper spire into free-fall before deploying sleek energy glider wings from her flight jacket, swooping down towards a massive armored airship gliding through cloud cover.",
+      "camera": "Dynamic tracking shot following Astra in a rapid downwards free-fall before swooping fast behind her flight trajectory.",
+      "dialogue": "Astra (Narration): 'If that core overloads, half the lower sectors vanish. Not on my watch.'",
+      "video_prompt": "Dynamic anime action shot, blonde female hero in sci-fi flight jacket diving off a skyscraper into night sky, blue energy wings expanding from back, gliding towards a massive flying armored airship below."
+    },
+    {
+      "scene": 4,
+      "duration": 8,
+      "visual": "Astra lands heavily onto the metallic hull of the flying airship. Crimson warning beacons flash as armed cybernetic enforcers breach the upper deck hatches.",
+      "camera": "Low-angle impact shot as Astra lands, followed by a fast panoramic sweep revealing surrounding armed cybernetic guards.",
+      "dialogue": "Cyber Guard: 'Intruder on the hull! Suppress her immediately!'",
+      "video_prompt": "Sci-fi anime action scene, female hero with blonde hair landing gracefully on an airship flight deck, sparks flying, flashing red warning lights, cybernetic guards surrounding her with laser rifles."
+    },
+    {
+      "scene": 5,
+      "duration": 8,
+      "visual": "Astra draws twin energy daggers, weaving through incoming laser fire with fluid acrobatic flips and slicing through guards' mechanical armor in rapid succession.",
+      "camera": "Fast-paced whip-pans and quick cuts tracking Astra's swift martial arts counterattacks.",
+      "dialogue": "Astra: 'Out of my way! I'm on a tight deadline!'",
+      "video_prompt": "High-speed anime combat sequence, blonde female warrior dodging glowing blue energy beams with acrobatic flips, wielding dual plasma daggers, dynamic motion blur, vivid battle animation."
+    },
+    {
+      "scene": 6,
+      "duration": 8,
+      "visual": "Astra kicks open the heavy command bridge doors. Syndicate Captain Vane stands beside a glass vessel holding the violently pulsing red Aetherium Core.",
+      "camera": "Dolly-in shot through the shattered deck doors, revealing Captain Vane and the wildly destabilizing core.",
+      "dialogue": "Vane: 'You're too late, Hawk! This core is already past critical mass!'",
+      "video_prompt": "Anime narrative scene, blonde female anime hero breaking into high-tech command deck, villain in heavy armor standing near a pulsing red energy core crackling with volatile plasma lightning."
+    },
+    {
+      "scene": 7,
+      "duration": 8,
+      "visual": "Extreme close-up of the Aetherium Core surging with red lightning energy, causing nearby display screens and glass consoles to shatter from pressure.",
+      "camera": "Shaky extreme close-up with dramatic light flashes pulsing rhythmically from crimson to pitch black.",
+      "dialogue": "Astra: 'He's forced it into critical overload... we only have seconds left!'",
+      "video_prompt": "Anime close-up, glowing red cybernetic energy core surging with volatile lightning, glass cracking under atmospheric shockwaves, intense sci-fi anime atmosphere."
+    },
+    {
+      "scene": 8,
+      "duration": 8,
+      "visual": "Astra focuses her spirit energy. The falcon tattoo on her left arm flares with brilliant golden light, spreading outward into a massive ethereal falcon energy aura around her.",
+      "camera": "Upward tilt shot as golden light radiates around Astra, her hair floating in the rising energy current.",
+      "dialogue": "Astra: 'Falcon Crest... overdrive mode!'",
+      "video_prompt": "Anime power-up sequence, 18-year-old blonde female hero, left arm falcon tattoo blazing with golden fire, ethereal golden falcon wings manifesting around her body, radiant particle effects."
+    },
+    {
+      "scene": 9,
+      "duration": 8,
+      "visual": "Vane fires a shoulder cannon beam, but Astra propels forward like a streak of golden light, dodging the blast effortlessly and leaving light trails in her wake.",
+      "camera": "Side-scrolling tracking shot moving at ultra-high speed alongside Astra's supersonic dash.",
+      "dialogue": "Vane: 'Impossible! No human can move that fast!'",
+      "video_prompt": "Fast anime motion sequence, blonde anime girl rushing forward like a golden beam of lightning, dodging massive energy explosions, high frame-rate dynamic animation."
+    },
+    {
+      "scene": 10,
+      "duration": 8,
+      "visual": "Astra strikes Vane with an open palm burst of energy, shattering his suit's power grid, and catches the volatile red core mid-air as it falls.",
+      "camera": "Impact frame freeze-cut followed by a smooth slow-motion capture of Astra snatching the core out of mid-air.",
+      "dialogue": "Astra: 'Gotcha! Now for the launch!'",
+      "video_prompt": "Anime battle climax, female anime protagonist with golden aura hitting armored villain, capturing a glowing red spherical core in mid-air, dramatic impact lines and lighting."
+    },
+    {
+      "scene": 11,
+      "duration": 8,
+      "visual": "Astra sprints out to the open airship deck and hurls the core skyward, firing a high-tech stasis containment matrix pod right after it.",
+      "camera": "Dynamic low-angle camera tilt following the core as it launches high into the upper night atmosphere.",
+      "dialogue": "Astra: 'Containment matrix, lock and seal!'",
+      "video_prompt": "Anime action shot, blonde girl throwing glowing red core into the dark clouds above, launching a futuristic stasis device to surround it, dynamic upwards view."
+    },
+    {
+      "scene": 12,
+      "duration": 8,
+      "visual": "High in the sky, the stasis matrix safely converts the core's explosive surge into a breathtaking, harmless shockwave of golden aurora light.",
+      "camera": "Wide panoramic camera sweep of the sky blooming with radiant aurora patterns over the dark city skyline.",
+      "dialogue": "Astra (Narration): 'The explosion was safely absorbed and converted. Neo-Aethel is secure.'",
+      "video_prompt": "Breathtaking anime visual, night sky exploding into golden auroras and shimmering particle light effects over a neon cyberpunk city skyline, beautiful cinematic aesthetic."
+    },
+    {
+      "scene": 13,
+      "duration": 8,
+      "visual": "Astra lands softly back on the city spire as dawn breaks, golden light reflecting on her face. She smiles warmly and gently touches her left arm falcon tattoo as it turns calm black.",
+      "camera": "Slow push-in on Astra's smiling face as warm golden morning light fills the frame.",
+      "dialogue": "Astra: 'Just another successful mission for Astra Hawk. The sky's clear now.'",
+      "video_prompt": "Anime ending shot, 18-year-old female anime character with blonde hair smiling softly at sunrise, standing on high skyscraper ledge, warm golden hour lighting, peaceful victorious mood, high detail."
+    }
+  ]
+}
