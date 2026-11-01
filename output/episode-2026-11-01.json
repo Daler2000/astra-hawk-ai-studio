@@ -1,0 +1,110 @@
+{
+  "title": "Astra Hawk: Wings of the Solar Core",
+  "description": "In a frozen cyberpunk metropolis, 18-year-old mercenary Astra Hawk infiltrates a mega-corporation tower to reclaim a stolen atmospheric core and save her freezing city.",
+  "scenes": [
+    {
+      "scene": 1,
+      "duration": 8,
+      "visual": "Overlooking the smog-draped cyberpunk city of New Aetheria at night. Icy wind blows dark storm clouds past neon skyscrapers. Astra Hawk stands on the ledge of a massive spire, her medium-length blonde hair whipping in the wind, a glowing amber falcon tattoo visible on her bare left arm.",
+      "camera": "Slow cinematic zoom out from Astra's determined blue eyes to a wide dramatic shot of the sprawling futuristic skyline.",
+      "dialogue": "Astra (Narration): 'The corporate elite locked away our heat to line their pockets. Tonight, I'm taking back the sun.'",
+      "video_prompt": "Dynamic anime scene, 8k resolution, cyberpunk city at night, frost on steel buildings, Astra Hawk, 18-year-old female anime protagonist, medium-length blonde hair, glowing amber falcon tattoo on left arm, athletic build, high-tech dark suit, dramatic wind, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration": 8,
+      "visual": "Astra sprints across the frosted glass roof of the Aethelgard Tower. Security red searchlights sweep the area, narrowly missing her heels as she executes a flawless flip over a ventilation shaft.",
+      "camera": "Tracking shot moving sideways alongside Astra, staying low to the rooftop frame with quick whip-pans follow her movements.",
+      "dialogue": "Astra: 'Vault entrance is fifty meters out. No turning back now.'",
+      "video_prompt": "Action anime shot, Astra Hawk running on glass skyscraper rooftop at night, dodging red laser searchlights, medium blonde hair floating in motion, falcon tattoo glowing softly on left arm, extreme action speed lines."
+    },
+    {
+      "scene": 3,
+      "duration": 8,
+      "visual": "Astra reaches a heavy reinforced skylight. She draws a twin plasma dagger from her waist belt and slices through the locking mechanism in a flash of fiery orange arc light, kicking the hatch open.",
+      "camera": "Close-up shot of her glowing left arm tattoo pulsing in sync with her plasma daggers, followed by a fast tilt-down camera motion into the dark hatch below.",
+      "dialogue": "Astra: 'Shatter point found. Going dark!'",
+      "video_prompt": "Close-up anime style, Astra Hawk slicing reinforced lock with fiery orange laser blade, medium blonde hair glowing in plasma reflection, falcon tattoo bright orange on left arm, dark sci-fi vault hatch."
+    },
+    {
+      "scene": 4,
+      "duration": 8,
+      "visual": "Astra drops silently into the high-tech vault chamber. In the center of the room floats the Solar Core—a swirling orb of radiant heat suspended inside a magnetic force field.",
+      "camera": "Panning crane shot down from Astra landing gracefully on her feet to revealing the massive glowing orb in the center.",
+      "dialogue": "Astra: 'There you are... the heartbeat of the Slums.'",
+      "video_prompt": "Futuristic anime interior, high-tech vault room, glowing spherical golden core in gravity field, Astra Hawk landing on knees in foreground, medium blonde hair, falcon tattoo on left arm, reflections on metallic floor."
+    },
+    {
+      "scene": 5,
+      "duration": 8,
+      "visual": "Suddenly, the metallic ceiling shatters. A heavy cybernetic enforcer named Vane slams into the floor, wielding a massive hydraulic mech-hammer charged with blue lightning.",
+      "camera": "Low angle dutch-tilt shot looking up at the huge imposing cybernetic villain as sparks rain down around him.",
+      "dialogue": "Vane: 'You're out of your depth, little bird! That core belongs to Aethelgard!'",
+      "video_prompt": "Intense anime combat reveal, massive armored cyborg warrior holding heavy glowing blue mech-hammer, smoke and electricity effects, high-tech vault interior, dramatic shadow."
+    },
+    {
+      "scene": 6,
+      "duration": 8,
+      "visual": "Vane swings his mech-hammer down. Astra backflips smoothly off the pedestal just as the hammer smashes into the titanium floor, sending shockwaves and blue sparks flying.",
+      "camera": "Dynamic slow-motion tracking shot following Astra's backflip as the floor explodes into metal fragments below her.",
+      "dialogue": "Astra: 'Then Aethelgard can come down to the Under-City and collect it!'",
+      "video_prompt": "Slow motion anime action, Astra Hawk mid-backflip in air, athletic 18-year-old female with blonde medium hair, blue electricity and metal debris flying, falcon tattoo bright on left arm."
+    },
+    {
+      "scene": 7,
+      "duration": 8,
+      "visual": "Vane sweeps his arm, slamming Astra into a support pillar. Astra grunts in pain, pinned down by his massive mechanical fist. Her falcon tattoo blazes with fiery solar light.",
+      "camera": "Tight close-up on Astra's face showing grit and determination, shifting down to her left arm as golden light erupts from the falcon tattoo.",
+      "dialogue": "Vane: 'End of the line, Hawk!' Astra: 'Not today! Ignite, Falcon Core!'",
+      "video_prompt": "Anime close-up, Astra Hawk grimacing with determination, medium blonde hair around face, intense golden aura flaring around her left arm, glowing falcon tattoo exploding with fiery yellow energy sparks."
+    },
+    {
+      "scene": 8,
+      "duration": 8,
+      "visual": "Golden energy erupts from Astra's left arm, solidifying into two luminous, fiery falcon wings extending from her shoulders. The shockwave shatters Vane's grip and forces him back.",
+      "camera": "360-degree rotational camera movement around Astra as her golden energy wings fully unfurl in a dazzling burst of radiance.",
+      "dialogue": "Astra: 'Wings of light—SOAR!'",
+      "video_prompt": "Epic anime transformation, Astra Hawk standing tall with magnificent radiant golden energy wings spread wide, blonde hair glowing, left arm tattoo shining like a star, illuminating dark vault."
+    },
+    {
+      "scene": 9,
+      "duration": 8,
+      "visual": "Astra launches forward like a golden meteor, delivering a devastating flying strike to Vane's chest plate. His armor shatters, and she snatches the floating Solar Core off its pedestal in one fluid motion.",
+      "camera": "Fast forward-dashing camera angle following Astra's golden trail as she strikes the boss and grabs the core.",
+      "dialogue": "Astra: 'I'm taking back our future!'",
+      "video_prompt": "High speed anime attack, Astra Hawk bursting forward with golden energy trail, striking giant cyborg, grabbing glowing yellow core, medium blonde hair trailing behind, dynamic speed lines."
+    },
+    {
+      "scene": 10,
+      "duration": 8,
+      "visual": "The vault structure begins to collapse. Astra turns toward the massive panoramic glass exterior window, clutching the warm Solar Core tight to her chest, and leaps straight through the glass into freefall.",
+      "camera": "Wide shot from inside the vault showing glass shattering into thousands of glittering shards as Astra dives out into the night sky.",
+      "dialogue": "Astra: 'Hold on tight down there... warmth is coming!'",
+      "video_prompt": "Cinematic anime glass burst shot, Astra Hawk diving outward through shattered glass window from high-rise skyscraper, clutching golden sphere, golden wings fading into glowing embers, night city background."
+    },
+    {
+      "scene": 11,
+      "duration": 8,
+      "visual": "Freefalling thousands of feet above the frozen lower slums, Astra fires her wrist-grapple cable toward the central thermal distributor spire, slotting the glowing Solar Core directly into the master receptacle.",
+      "camera": "Extreme vertical tracking shot moving fast downward alongside Astra as she aligns her shot and inserts the core.",
+      "dialogue": "Astra: 'Core lock sequence... complete!'",
+      "video_prompt": "Action anime freefall scene, Astra Hawk inserting glowing golden solar orb into massive rusty tower socket in lower city slums, wind effects on blonde hair, futuristic HUD overlays."
+    },
+    {
+      "scene": 12,
+      "duration": 8,
+      "visual": "The central thermal spire ignites with brilliant golden light. Waves of soothing solar heat surge through massive pipes across the city, instantly melting snow and ice off thousands of frozen homes.",
+      "camera": "Grand sweeping aerial shot of the city as a wave of gold and orange warmth washes across the dark frozen landscape, turning ice into radiant steam.",
+      "dialogue": "Slum Citizen (Over Radio): 'The core... it's online! The frost is melting!'",
+      "video_prompt": "Vibrant anime wide shot, futuristic frozen city melting under massive expanding golden shockwave of heat, glowing pipes lighting up slums, golden morning glow."
+    },
+    {
+      "scene": 13,
+      "duration": 8,
+      "visual": "Morning sun breaks over the skyline of New Aetheria. Astra stands atop a crane high above the warming city, her falcon tattoo resting as a gentle mark on her left arm. She smiles softly into the sunrise as warm wind blows her blonde hair.",
+      "camera": "Slow cinematic pan from her glowing, peaceful face to the sunrise over the newly liberated city, closing on a warm static wide shot.",
+      "dialogue": "Astra (Narration): 'As long as I can fly, no one in this city will ever freeze in the dark again.'",
+      "video_prompt": "Beautiful anime conclusion, Astra Hawk, 18-year-old female protagonist, medium blonde hair gently blowing in warm morning sun, smiling softly, falcon tattoo on left arm, peaceful sunrise over cyberpunk city, warm golden colors, masterpiece quality."
+    }
+  ]
+}
