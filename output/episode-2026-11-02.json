@@ -1,0 +1,102 @@
+{
+  "title": "Skybound Zenith: Light of Aethelgard",
+  "description": "Join Astra Hawk as she defends the floating metropolis of Neo-Aethelgard from a destructive rogue drone swarm. Powered by her ancient falcon relic, she fights to restore light to the sky city.",
+  "scenes": [
+    {
+      "scene": 1,
+      "duration": 8,
+      "visual": "High-altitude view of Neo-Aethelgard at night, filled with floating neon skyscrapers. 18-year-old Astra Hawk stands on a metal sky-dock platform edge, her blonde medium-length hair fluttering in the wind. A dark falcon tattoo is clearly visible on her bare left upper arm.",
+      "camera": "Slow pan-out from Astra's back, rising into a high-angle panoramic establishing shot of the cybernetic sky city.",
+      "dialogue": "Astra (Narration): 'When the world below falls into shadow, someone has to keep the sky burning bright.'",
+      "video_prompt": "Dynamic anime establishing shot, futuristic neon sky city at night, 18-year-old female anime protagonist Astra Hawk with medium blonde hair, pilot jacket, falcon tattoo on left arm, wind blowing hair, high quality 2D ufotable anime style."
+    },
+    {
+      "scene": 2,
+      "duration": 8,
+      "visual": "Astra steps off the edge of the sky-dock into the cloud-filled abyss. Mid-fall, bright cyan hard-light wings erupt dramatically from her flight pack.",
+      "camera": "Fast downward tracking shot following Astra in freefall, swooping around her as the energy wings spread wide.",
+      "dialogue": "Astra: 'Wings synchronized! Time to clear the skies!'",
+      "video_prompt": "High energy anime aerial action, blonde girl diving through clouds over neon city, cyan energy wings opening, glowing particle trails, dynamic camera movement, 2D anime visual effects."
+    },
+    {
+      "scene": 3,
+      "duration": 8,
+      "visual": "A swarm of red-eyed rogue mecha drones emerges from thunderclouds, locking onto Astra and opening fire with crimson plasma bolts.",
+      "camera": "Low-angle whip pan tracking Astra as she weaves, rolls, and dives between incoming laser blasts.",
+      "dialogue": "Astra: 'Rogue drones... they're trying to breach the central reactor power grid!'",
+      "video_prompt": "Anime dogfight sequence, female anime flyer dodging red laser barrage from swarm of futuristic spider drones, volumetric smoke, night clouds, sharp anime keyframes."
+    },
+    {
+      "scene": 4,
+      "duration": 8,
+      "visual": "Close-up on Astra's determined expression. The falcon tattoo on her left arm flashes with intense golden-cyan illumination, energy circuits spreading down to her fingertips.",
+      "camera": "Extreme close-up on Astra's glowing blue eyes, rapidly zooming out as her left arm surges with ancient relic power.",
+      "dialogue": "Astra: 'Falcon Crest... lend me your speed!'",
+      "video_prompt": "Anime close-up shot, 18-year-old female hero with sharp blue eyes, focus face, falcon tattoo glowing cyan on her left arm, glowing power activation, studio trigger aesthetic."
+    },
+    {
+      "scene": 5,
+      "duration": 8,
+      "visual": "Astra draws twin energy blades. She zips through the drone swarm like a bolt of lighting, slicing multiple drones in half in quick succession.",
+      "camera": "Dynamic 360-degree orbit shot around Astra as she slashes through three drones, leaving bright yellow cut lines across the screen.",
+      "dialogue": "Astra: 'Target locked... strike!'",
+      "video_prompt": "Fast-paced anime sword combat in mid-air, blonde female character slashing mechanical drones with dual plasma blades, explosions, electric sparks, cinematic anime action."
+    },
+    {
+      "scene": 6,
+      "duration": 8,
+      "visual": "Astra swoops down and lands on the rain-slick glass dome of the Central Reactor Tower. At the center stands a colossal, corrupt Overlord Drone draining the core energy.",
+      "camera": "Low-angle tracking shot as Astra lands smoothly, tilting up to reveal the massive giant mecha boss towering above her.",
+      "dialogue": "Astra: 'The Overlord Drone... it's trying to overload the city core!'",
+      "video_prompt": "Anime hero landing on wet metallic rooftop glass, facing a gigantic dark mechanical boss glowing with corrupted purple energy, background neon skyline, dramatic lighting."
+    },
+    {
+      "scene": 7,
+      "duration": 8,
+      "visual": "The Overlord Drone charges a gigantic purple plasma blast inside its chest cannon and fires directly at Astra.",
+      "camera": "Fast push-in on the glowing cannon barrel as a massive purple destructive energy beam blasts straight toward the screen.",
+      "dialogue": "Astra: 'Not while I'm still flying!'",
+      "video_prompt": "Anime giant robot firing massive purple laser beam straight toward camera, screen filling with light shockwaves and particle effects."
+    },
+    {
+      "scene": 8,
+      "duration": 8,
+      "visual": "Astra crosses her left arm over her chest. The falcon tattoo projects a giant holographic falcon energy shield that deflects the massive laser blast into the sky.",
+      "camera": "Medium side shot displaying Astra standing her ground as the massive beam splits across her golden falcon energy barrier.",
+      "dialogue": "Astra: 'Aegis Barrier, full power!'",
+      "video_prompt": "Anime defense shield effect, female character generating golden translucent falcon-shaped energy barrier, deflecting massive purple laser beam, bright light sparks."
+    },
+    {
+      "scene": 9,
+      "duration": 8,
+      "visual": "With the blast deflected, Astra sprints directly up the Overlord Drone's giant arm, her right sword charging with concentrated white-gold lightning.",
+      "camera": "Kinetic tracking shot running parallel to Astra as she speeds up the robot's armor plating.",
+      "dialogue": "Astra: 'Your core is wide open!'",
+      "video_prompt": "Dynamic anime action, anime girl running up giant robot arm while charging glowing golden sword, perspective speed lines, high tension."
+    },
+    {
+      "scene": 10,
+      "duration": 8,
+      "visual": "Astra vaults high into the air and plunges her overcharged blade directly into the Overlord Drone's red central core crystal.",
+      "camera": "Impact frame freeze shot zooming sharply into the central core crystal as cracks of brilliant white light burst outward.",
+      "dialogue": "Astra: 'Falcon Break!'",
+      "video_prompt": "Anime impact frame, female warrior driving glowing energy blade into giant mecha chest core, intense white cyan flash, glass shattering particle effect."
+    },
+    {
+      "scene": 11,
+      "duration": 8,
+      "visual": "The Overlord Drone disintegrates into a shower of harmless golden particles. A shockwave of pure energy cascades across Neo-Aethelgard, restoring the glowing city power grid.",
+      "camera": "Wide aerial pull-back shot showing the golden wave restoring light to all skyscrapers across the sky metropolis.",
+      "dialogue": "Astra (Narration): 'The corruption is cleared. The city's heart beats again.'",
+      "video_prompt": "Anime cinematic wide shot, massive giant robot exploding into golden light particles, futuristic city grid relighting with blue and gold illumination."
+    },
+    {
+      "scene": 12,
+      "duration": 8,
+      "visual": "Warm golden sunrise breaks over the horizon of Neo-Aethelgard. Astra stands tall on the highest tower edge, retracting her wings. Her left arm falcon tattoo glints softly in the morning light as she turns to smile brightly.",
+      "camera": "Slow close-up zoom on Astra's smiling face, hair softly blowing in the dawn breeze as golden sunlight bathes her face.",
+      "dialogue": "Astra: 'Another dawn, another sky saved. Let's head home.'",
+      "video_prompt": "Peaceful anime ending scene, 18-year-old blonde female hero Astra Hawk smiling warmly on rooftop at golden dawn, falcon tattoo on left arm, morning sunlight, detailed 2D anime character art."
+    }
+  ]
+}
