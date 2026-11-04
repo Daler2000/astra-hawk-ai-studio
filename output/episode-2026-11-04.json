@@ -1,0 +1,110 @@
+{
+  "title": "Astra Hawk: Wings of the Aether Core",
+  "description": "When a corrupt sky-station core threatens to annihilate the lower district of Neo-Elysium, 18-year-old mercenary pilot Astra Hawk leaps into action. Armed with her glowing falcon energy and relentless determination, Astra must stabilize the core before total meltdown.",
+  "scenes": [
+    {
+      "scene": 1,
+      "duration": 8,
+      "visual": "A rain-slicked rooftop overlooking the neon-soaked skyline of Neo-Elysium at night. Astra Hawk, an 18-year-old female anime character with medium-length blonde hair, stands near the edge wearing a dark leather flight jacket. The falcon tattoo on her exposed left arm faintly pulses with a soft blue light.",
+      "camera": "Slow pan up from Astra's combat boots to a medium close-up of her profile against the city lights.",
+      "dialogue": "Astra (Narration): 'The city never sleeps... especially when it's about to crash and burn.'",
+      "video_prompt": "Anime style, 90s classic aesthetic mixed with modern sakuga, high quality, 18-year-old female anime protagonist Astra Hawk, medium-length blonde hair blowing in rainy wind, falcon tattoo on left arm glowing blue, cyberpunk city background, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration": 8,
+      "visual": "Holographic sirens flare crimson across the sky. High above, a massive, burning Aether Core breaks off from the orbital sky-station, plummeting toward the densely populated lower city districts.",
+      "camera": "Low-angle wide shot tilting rapidly upward toward the falling, fiery energy core.",
+      "dialogue": "AI Comms (V.O.): 'Warning. Core instability at ninety percent. Impact in sixty seconds.'",
+      "video_prompt": "Anime style, sci-fi action, massive burning energy core falling from a floating sky city, red emergency holographic warnings floating in air, dark stormy sky, intense visual effects."
+    },
+    {
+      "scene": 3,
+      "duration": 8,
+      "visual": "Astra presses her right hand over the falcon tattoo on her left forearm. Golden flame-like energy erupts from the tattoo, tracing up her arm. She smirks and pulls down a sleek futuristic combat visor over her eyes.",
+      "camera": "Extreme close-up of Astra's glowing falcon tattoo, then quickly zooming in on her eyes as her visor activates.",
+      "dialogue": "Astra: 'Not on my watch. Let's fly, partner.'",
+      "video_prompt": "Anime style, close up, golden energy glowing brightly from a stylized falcon tattoo on a blonde female character's left arm, sleek high-tech visor sliding over eyes, determined expression."
+    },
+    {
+      "scene": 4,
+      "duration": 8,
+      "visual": "Astra leaps headfirst off the skyscraper edge into the abyss. Wings made of solid golden light burst from her back, catching the wind as she dives at breakneck speed toward the falling core.",
+      "camera": "Dynamic tracking shot following Astra from behind as she dives through clouds and neon light trails.",
+      "dialogue": "Astra (Narration): 'When you live on the edge, gravity is just a suggestion.'",
+      "video_prompt": "Anime sakuga, high speed motion, female anime protagonist diving through night sky, large glowing golden energy wings sprouting from her back, trailing sparks, perspective zoom."
+    },
+    {
+      "scene": 5,
+      "duration": 8,
+      "visual": "Automated defense droids surrounding the falling rogue core lock onto Astra. They open fire with a barrage of red plasma lasers.",
+      "camera": "Fast Dutch-angle shot panning across the swarm of mechanical droids firing beams.",
+      "dialogue": "AI Comms (V.O.): 'Target acquired. Hostile defense grid activated.'",
+      "video_prompt": "Anime battle, futuristic flying droids firing red laser beams through rainy dark sky, dynamic camera angle, intense sci-fi combat."
+    },
+    {
+      "scene": 6,
+      "duration": 8,
+      "visual": "Astra performs rapid aerial barrel rolls and evasive maneuvers, dodging plasma fire. She draws two glowing energy daggers from her waist belts.",
+      "camera": "Orbital 360-degree camera spin around Astra as she weaves past incoming laser beams in mid-air.",
+      "dialogue": "Astra: 'You guys really need a software update!'",
+      "video_prompt": "Anime sakuga frame, female character Astra Hawk with blonde hair twisting gracefully mid-air, golden wings flapping, holding dual light daggers, dodging laser blasts, high detail animation."
+    },
+    {
+      "scene": 7,
+      "duration": 8,
+      "visual": "Astra slices clean through the lead defense drone with her blades. The machine explodes into brilliant turquoise sparks and debris behind her.",
+      "camera": "Fast forward whip-pan, stopping abruptly as Astra slashes across the screen, followed by an explosion.",
+      "dialogue": "Astra: 'Clear path!'",
+      "video_prompt": "Anime combat sequence, explosive slash effect, bright blue explosion sparks, high contrast, golden-winged female warrior cutting through metallic flying robot."
+    },
+    {
+      "scene": 8,
+      "duration": 8,
+      "visual": "Astra lands heavily on the scorching metal surface of the falling Aether Core. Heatwaves warp the air around her, and red corruption veins cover the core's control matrix.",
+      "camera": "Ground-level shockwave shot as her boots strike the hull, zooming into the pulsating core matrix.",
+      "dialogue": "Astra: 'Found the point of origin. It's totally corrupted!'",
+      "video_prompt": "Anime style, intense heat aura, blonde female character standing on a massive falling metallic core, red glowing veins of energy pulsing under the metal surface, wind blowing hair."
+    },
+    {
+      "scene": 9,
+      "duration": 8,
+      "visual": "Dark energy tendrils lash out from the core interface to strike Astra. She raises her left arm; her falcon tattoo blazes into a towering avian crest shielding her.",
+      "camera": "Low close-up focusing on Astra's left arm blocking dark tendrils with a translucent golden bird barrier.",
+      "dialogue": "Astra: 'I've come too far to let this city burn!'",
+      "video_prompt": "Anime magic tech shielding effect, golden falcon energy spirit shield blocking dark purple corrupt energy tendrils, high emotional intensity, Astra Hawk grit teeth."
+    },
+    {
+      "scene": 10,
+      "duration": 8,
+      "visual": "Astra channels all her falcon energy into her right blade. Her falcon tattoo glows so intensely that golden light engulfs her entire left side.",
+      "camera": "Push-in shot targeting her face, eyes glowing gold under the visor, energy gathering sharply into her sword point.",
+      "dialogue": "Astra: 'Overdrive! Falcon Surge!'",
+      "video_prompt": "Anime power-up sequence, close up on blonde anime protagonist glowing bright gold, aura flare, stylized avian light particle effects charging into a blade."
+    },
+    {
+      "scene": 11,
+      "duration": 8,
+      "visual": "With a fierce battle cry, Astra drives her overcharged blade deep into the center of the corrupted core matrix. A blinding wave of golden light washes over the machinery.",
+      "camera": "Impact frame dynamic zoom, followed by a expanding wide shot of golden light purifying the crimson energy.",
+      "dialogue": "Astra: 'STABILIZE!'",
+      "video_prompt": "Anime climax sakuga, black and white impact frames, powerful strike into mechanical core, golden energy purifying red corruption, brilliant lighting burst."
+    },
+    {
+      "scene": 12,
+      "duration": 8,
+      "visual": "The falling core instantly halts its descent, coming to a gentle hover just meters above the city rooftops. The red alarm lights turn a calm, serene blue.",
+      "camera": "Wide cinematic pull-back shot showing the massive core floating harmlessly over the safe, neon-lit city buildings.",
+      "dialogue": "AI Comms (V.O.): 'Core stabilized. Threat neutralized.'",
+      "video_prompt": "Anime sci-fi, giant glowing blue core hovering safely above futuristic city buildings at night, rain fading into clear sky, beautiful atmosphere."
+    },
+    {
+      "scene": 13,
+      "duration": 8,
+      "visual": "Dawn breaks over Neo-Elysium, casting golden sunlight across the skyline. Astra sits on a high crane overlooking the peaceful city. She slides off her visor, looks down at her left arm's glowing falcon tattoo with a gentle smile, and takes a breath.",
+      "camera": "Slow pan around Astra as the morning sun illuminates her face and blonde hair.",
+      "dialogue": "Astra: 'Another day, another sky to conquer.'",
+      "video_prompt": "Anime style peaceful conclusion, beautiful sunrise background over a cyberpunk city, Astra Hawk 18-year-old blonde female anime character sitting relaxed on crane, smiling softly, falcon tattoo glowing gently in sunlight."
+    }
+  ]
+}
