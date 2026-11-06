@@ -1,0 +1,102 @@
+{
+  "title": "Astra Hawk: Rise of the Sun-Core",
+  "description": "When a rogue automaton threatens to overload the sacred Sun-Core above Neo-Aetheria, 18-year-old pilot Astra Hawk unleashes the power of her ancient tattoo to save the sky city.",
+  "scenes": [
+    {
+      "scene": 1,
+      "duration": 8,
+      "visual": "A panoramic view of Neo-Aetheria at twilight. 18-year-old Astra Hawk stands on the precipice of a towering skyscraper. Her medium-length blonde hair sways in the high-altitude wind. On her bare left arm, an intricate falcon tattoo faintly glows with cyan mana.",
+      "camera": "Slow pan around Astra from front to profile, rising upward to show the expansive neon city far below.",
+      "dialogue": "Astra (Narration): 'They say the sky belongs to those who dare to fall. Today, I take it back.'",
+      "video_prompt": "Vibrant anime style, 18-year-old female hero Astra Hawk with medium-length blonde hair and a glowing cyan falcon tattoo on her left arm standing atop a futuristic neon skyscraper at twilight, wind blowing hair, dramatic lighting, highly detailed anime visual, Studio Ghibli meets Ufotable aesthetic."
+    },
+    {
+      "scene": 2,
+      "duration": 8,
+      "visual": "Astra leaps off the ledge into freefall. Mid-air, two radiant golden energy wings sprout from her back apparatus, stabilizing her descent into a high-speed forward glide toward a floating ancient sky-temple.",
+      "camera": "Dynamic tracking shot following Astra diving downward, rapidly transitioning to a wide trailing angle as her energy wings ignite.",
+      "dialogue": "Astra: 'Aether wings, engaging! Target in sight.'",
+      "video_prompt": "Anime action scene, blonde female protagonist diving through cloud cover toward a floating sci-fi ruin, golden translucent energy wings expanding from her back, dynamic speed lines, cinematic lighting."
+    },
+    {
+      "scene": 3,
+      "duration": 8,
+      "visual": "Astra lands gracefully inside the central courtyard of the floating sky-temple. Ancient stone pillars are fused with glowing red corrupt cyber-technology. Red-eyed automaton sentinels turn toward her.",
+      "camera": "Low-angle tracking shot of Astra landing smoothly, followed by a rapid zoom-out to reveal the swarm of menacing sentinel droids surrounding her.",
+      "dialogue": "Astra: 'Looks like temple security didn't get the memo about my visit.'",
+      "video_prompt": "Anime scene, Astra Hawk landing smoothly inside a dark gothic-futuristic temple courtyard, surrounded by mechanical sentinel droids with glowing red optics, intense atmosphere."
+    },
+    {
+      "scene": 4,
+      "duration": 8,
+      "visual": "At the center of the courtyard, a gigantic, corrupted Mech Sentinel rises, guarding a floating, unstable crimson Sun-Core that crackles with volatile electricity.",
+      "camera": "Tilt-up shot emphasizing the immense scale of the colossal boss Mech Sentinel as it roars with mechanical energy.",
+      "dialogue": "Astra (Narration): 'The Sun-Core is critical. If it detonates, the whole lower district goes down.'",
+      "video_prompt": "Massive dark metallic mecha boss with red glowing runes standing before an unstable floating orb of red plasma inside an ancient arena, detailed anime art style."
+    },
+    {
+      "scene": 5,
+      "duration": 8,
+      "visual": "Astra draws dual plasma blades from her hip holsters. The falcon tattoo on her left arm flares from cyan to brilliant gold, channeling radiant energy directly into her weapons.",
+      "camera": "Close-up on Astra's left arm showing the glowing gold falcon tattoo, shifting to a heroic close-up of her determined blue eyes.",
+      "dialogue": "Astra: 'Flames of the Hawk, lend me your strength!'",
+      "video_prompt": "Anime character close-up, 18-year-old blonde girl Astra Hawk holding twin dual plasma daggers, her left arm falcon tattoo glowing with intense golden energy, fierce expression, particle effects."
+    },
+    {
+      "scene": 6,
+      "duration": 8,
+      "visual": "Astra darts forward at superhuman speed, leaving trails of golden light. She dodges heavy laser cannons fired by the giant sentinel, executing acrobatic backflips over incoming energy blasts.",
+      "camera": "Fast-paced whip pans and tracking shots following Astra's high-speed acrobatic dodges across the crumbling stone floor.",
+      "dialogue": "Astra: 'Too slow, heavy metal!'",
+      "video_prompt": "High-speed anime battle, blonde girl weaving through red laser beams, acrobatics, particle effects, golden energy trails, dynamic action camera angle."
+    },
+    {
+      "scene": 7,
+      "duration": 8,
+      "visual": "The giant Mech fires a massive focused beam cannon right at Astra. She raises her left arm; the falcon tattoo projects a massive spectral falcon shield that deflects the beam upward into the sky.",
+      "camera": "Over-the-shoulder shot behind Astra as the golden bird-shaped energy shield absorbs and deflects the destructive red laser beam.",
+      "dialogue": "Astra: 'Aegis Falcon, deflect!'",
+      "video_prompt": "Anime power defense, huge fiery golden falcon energy shield blocking a colossal crimson laser beam fired by a giant robot, dramatic impact flashes, dynamic lighting."
+    },
+    {
+      "scene": 8,
+      "duration": 8,
+      "visual": "Using the reflected momentum, Astra launches herself high into the air above the giant Mech. Golden feathers made of pure light swirl around her in a blinding vortex.",
+      "camera": "Upward spiral camera movement swirling around Astra as she ascends high above the arena, bathed in brilliant divine light.",
+      "dialogue": "Astra: 'This finishes now! Celestial Strike!'",
+      "video_prompt": "Anime climax scene, female protagonist floating mid-air surrounded by a swirling vortex of glowing golden feather light, aerial shot looking up, breathtaking anime style."
+    },
+    {
+      "scene": 9,
+      "duration": 8,
+      "visual": "Astra dives downward like a striking falcon, thrusting her twin blades directly into the corrupted Mech's central core matrix. A wave of golden light shatters the dark technology.",
+      "camera": "Impact zoom-in shot on the moment of contact, followed by an explosion of golden light rippling through the giant Mech.",
+      "dialogue": "Astra: 'Break through!'",
+      "video_prompt": "Anime finishing blow action, blonde girl diving downward with twin glowing blades stabbing into a giant robot's core, immense burst of golden radiant light, dramatic impact frame."
+    },
+    {
+      "scene": 10,
+      "duration": 8,
+      "visual": "The giant Mech turns to harmless particle dust and disintegrates. Astra catches the floating Sun-Core, which calms down and shifts from volatile red to a serene, glowing golden orb in her hands.",
+      "camera": "Medium shot following the disintegration of the Mech, focusing down onto Astra's hands safely cradling the golden orb.",
+      "dialogue": "Astra: 'Core stabilized. The city is safe.'",
+      "video_prompt": "Anime scene, giant robot dissolving into glowing golden embers, Astra Hawk holding a glowing gentle golden sphere safely in her hands, serene victory glow."
+    },
+    {
+      "scene": 11,
+      "duration": 8,
+      "visual": "The dark storm clouds above part open, revealing warm golden sunset rays over Neo-Aetheria. Astra stands at the edge of the sky-temple platform, looking out over the peaceful skyline.",
+      "camera": "Slow backward crane shot revealing the beautiful sunset cityscape while Astra stands triumphantly on the ancient edge.",
+      "dialogue": "Astra (Narration): 'No matter how dark the storm gets, the dawn always returns.'",
+      "video_prompt": "Wide shot anime illustration, blonde girl standing on ancient sky platform looking over glowing futuristic city illuminated by golden sunset rays breaking through clouds, picturesque landscape."
+    },
+    {
+      "scene": 12,
+      "duration": 8,
+      "visual": "Close-up of Astra glancing at her left arm. The falcon tattoo glows softly, settling back to its original cyan tint. She turns to the camera with a confident, warm smile and a classic thumbs-up.",
+      "camera": "Close-up starting on the falcon arm tattoo, panning up to her smiling face as she looks directly at the viewer.",
+      "dialogue": "Astra: 'Mission complete. Time to head home!'",
+      "video_prompt": "Anime close-up, Astra Hawk smiling warmly at camera, medium blonde hair bathed in golden light, left arm falcon tattoo visible, triumphant finale shot, high quality finish."
+    }
+  ]
+}
