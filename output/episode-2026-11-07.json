@@ -1,0 +1,110 @@
+{
+  "title": "Astra Hawk: Wings of the Neon Sky",
+  "description": "Watch Astra Hawk battle a rogue swarm of biomechanical drones to save the glowing futuristic metropolis of Neo-Veridia. High-octane anime action brought to you by Astra Hawk Anime Studio!",
+  "scenes": [
+    {
+      "scene": 1,
+      "duration": 8,
+      "visual": "Emergency sirens blare over the rain-drenched neon metropolis of Neo-Veridia. Astra Hawk, an 18-year-old girl with medium-length blonde hair, stands atop a towering spire overlooking the city.",
+      "camera": "Slow wide pan starting from Astra's back, rising up to reveal the vast, glittering cyberpunk cityscape under dark storm clouds.",
+      "dialogue": "Astra Hawk (Narration): They thought the darkness could swallow this city whole. They forgot who owns the sky.",
+      "video_prompt": "High quality modern anime style, 18-year-old female protagonist Astra Hawk with medium blonde hair, cinematic rainy neon cityscape background, high-angle panoramic camera movement."
+    },
+    {
+      "scene": 2,
+      "duration": 8,
+      "visual": "Astra lifts her bare left forearm. The intricate falcon tattoo etched on her skin begins to pulse with brilliant amber-gold light.",
+      "camera": "Tight close-up shot tracking down onto her left arm as the falcon tattoo activates with crackling energy sparks.",
+      "dialogue": "Astra: Falcon Core... fully synchronized. Let's clear the air.",
+      "video_prompt": "Anime close-up shot, 18-year-old blonde girl's left arm, detailed falcon tattoo glowing with intense golden energy sparks, high contrast lighting."
+    },
+    {
+      "scene": 3,
+      "duration": 8,
+      "visual": "A massive swarm of biomechanical hunter-drones erupts from the dark clouds, their ocular visors glowing malicious crimson.",
+      "camera": "Fast whip-pan upward into the storm clouds, zooming in on the menacing mechanical horde descending.",
+      "dialogue": "Defense System Voice: Warning. Rogue Leviathan drone horde detected in Sector 4.",
+      "video_prompt": "Action anime visual, swarm of sleek mechanical dragon drones descending through dark rainy storm clouds, red glowing sensors, dramatic atmospheric lighting."
+    },
+    {
+      "scene": 4,
+      "duration": 8,
+      "visual": "Astra leaps off the skyscraper ledge into a freefall. Wings made of pure golden plasma detonate outward from her back.",
+      "camera": "Low-angle tracking shot following Astra falling, then zooming in as glowing energy wings abruptly manifest behind her.",
+      "dialogue": "Astra: Take flight!",
+      "video_prompt": "Dynamic anime action shot, 18-year-old blonde female hero leaping into space, large fiery golden energy wings bursting from her back, motion blur effect."
+    },
+    {
+      "scene": 5,
+      "duration": 8,
+      "visual": "Astra rockets forward, weaving effortlessly between holographic billboards while slashing through multiple drones with her energy blades.",
+      "camera": "Fast-paced side-tracking follow camera sweeping alongside Astra as she executes high-speed aerial maneuvers.",
+      "dialogue": "Astra Hawk (Narration): Speed is precision. Precision is survival.",
+      "video_prompt": "Cyberpunk anime aerial battle, blonde girl with light wings darting between holographic neon signs, slashing glowing mechanical drones, high frame rate action."
+    },
+    {
+      "scene": 6,
+      "duration": 8,
+      "visual": "The sky splits open as a colossal Alpha Mech-Dragon emerges, unleashing a destructive sonic blast toward the city's power grid below.",
+      "camera": "Extreme wide shot pushing forward into the sky as a colossal mechanical beast looms over the city structure.",
+      "dialogue": "Astra: Not on my watch! That power core feeds the whole lower sector!",
+      "video_prompt": "Epic anime scale, gigantic metallic mechanical dragon bursting from clouds, firing purple plasma beam, dramatic low angle cinematic perspective."
+    },
+    {
+      "scene": 7,
+      "duration": 8,
+      "visual": "Astra lands gracefully on a floating sky-rail track, sparks flying under her boots as she skids to a brief stop and focuses her aura.",
+      "camera": "Medium shot zooming in rapidly on Astra's face; her bright blue eyes shine with fierce determination.",
+      "dialogue": "Astra: One shot. Every drop of energy into the wing driver.",
+      "video_prompt": "Anime protagonist close-up, 18-year-old female Astra Hawk with medium blonde hair, determined expression, electric sparks swirling around her body, high intensity."
+    },
+    {
+      "scene": 8,
+      "duration": 8,
+      "visual": "The giant Alpha Mech-Dragon turns its massive particle cannon head directly toward Astra, charging a blinding violet beam.",
+      "camera": "Over-the-shoulder shot from behind Astra looking up at the terrifying giant boss charging its weapon.",
+      "dialogue": "Alpha Mech System: Target locked. Eradication imminent.",
+      "video_prompt": "Anime boss encounter, massive cyber dragon charging purple energy sphere in mouth, glowing red eyes, dramatic dark storm background."
+    },
+    {
+      "scene": 9,
+      "duration": 8,
+      "visual": "Astra sprints down the rail track at breakneck speed, her golden wings sweeping backward to create a hyper-boost cone around her.",
+      "camera": "Low-angle dynamic tracking shot running alongside Astra, showing the ground shattering beneath her steps.",
+      "dialogue": "Astra: Wings of light, break through!",
+      "video_prompt": "Fast anime sprint sequence, blonde girl running along glowing glass track, aura burst, golden light trail behind her, high kinetic energy."
+    },
+    {
+      "scene": 10,
+      "duration": 8,
+      "visual": "Astra launches into the air directly toward the Mech-Dragon's beam. Her left arm's falcon tattoo expands into an ethereal giant golden falcon projection.",
+      "camera": "Spiral camera rotate around Astra as she flies upward into the center of the screen, enveloped by a giant glowing falcon spirit.",
+      "dialogue": "Astra: FALCON IMPACT!",
+      "video_prompt": "Climactic anime scene, female warrior soaring upward, giant golden falcon spirit manifest around her body, glowing amber radiance, intense motion."
+    },
+    {
+      "scene": 11,
+      "duration": 8,
+      "visual": "Astra strikes the Mech-Dragon's chest core head-on. A blinding shockwave of golden light rips through the sky, disintegrating the beast.",
+      "camera": "Impact freeze-frame transition followed by a massive expanding radial shockwave camera zoom out.",
+      "dialogue": "Astra: Shatter!",
+      "video_prompt": "Anime explosion climax, bright golden light wave bursting through colossal cyber dragon, disintegrating metal armor into glowing particles, epic VFX."
+    },
+    {
+      "scene": 12,
+      "duration": 8,
+      "visual": "The storm clouds dissipate instantly. Golden rain of neutralized energy particles gently falls over the newly lit cityscape.",
+      "camera": "Slow wide pan down from the clear starry sky to the peaceful glowing city below, drenched in golden particles.",
+      "dialogue": "City Broadcast: Sector 4 online. Threat neutralized. Skies are clear.",
+      "video_prompt": "Beautiful anime landscape, dark night turning into clear sky with glowing golden energy dust falling over neon city, peaceful atmosphere."
+    },
+    {
+      "scene": 13,
+      "duration": 8,
+      "visual": "Astra stands on the edge of the central tower at dawn. Her wings vanish into soft golden light, her falcon tattoo resting quietly on her arm. She smiles brightly as the sun rises.",
+      "camera": "Slow orbit camera around Astra Hawk, ending on a crisp profile medium shot against the golden morning sunrise.",
+      "dialogue": "Astra Hawk: As long as I'm flying... Neo-Veridia will never fall.",
+      "video_prompt": "Satisfying anime conclusion, 18-year-old blonde Astra Hawk standing triumphantly atop skyscraper at bright golden sunrise, falcon tattoo visible on left arm, peaceful confident smile."
+    }
+  ]
+}
