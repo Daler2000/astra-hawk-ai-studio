@@ -1,0 +1,110 @@
+{
+  "title": "Astra Hawk: Echoes of the Apex",
+  "description": "In the rain-drenched cyberpunk skyline of Neo-Veridia, 18-year-old high-sky operative Astra Hawk infiltrates the heavily guarded Apex Tower to reclaim the stolen Solar Aegis power core. Unleashing the energy of her falcon tattoo, she battles elite droids in an epic race against time.",
+  "scenes": [
+    {
+      "scene": 1,
+      "duration": 8,
+      "visual": "Rain glimmers on the neon-lit roofs of Neo-Veridia. Astra Hawk, an 18-year-old female operative with medium-length blonde hair and a dark tactical jacket, stands atop a high-rise crane overlooking the fortified Apex Tower.",
+      "camera": "Wide pan from the sprawling neon cityscape below up to Astra's high silhouette, tilting smoothly up to her determined face.",
+      "dialogue": "Narration: They thought they could bury the city's future in the clouds. They forgot who owns the sky.",
+      "video_prompt": "High detail anime style, Astra Hawk 18 years old female with medium blonde hair floating in rain, tactical outfit, standing on edge of industrial crane, neon cyberpunk city below, rainy atmospheric lighting, dramatic wide angle."
+    },
+    {
+      "scene": 2,
+      "duration": 8,
+      "visual": "Astra pulls down her futuristic glowing visor. On her bare left upper arm, an intricate falcon tattoo ignites with a vibrant cyan energy glow.",
+      "camera": "Close-up shot focusing on her left arm showing the glowing falcon tattoo, then tracking upward to her confident smile.",
+      "dialogue": "Astra: Core signal locked. Time to go hunting.",
+      "video_prompt": "Anime aesthetic, close up on blonde female character Astra Hawk, black sleeveless tactical top exposing left shoulder, glowing neon blue falcon tattoo pulsing on skin, pulling down futuristic visor, cinematic lighting."
+    },
+    {
+      "scene": 3,
+      "duration": 8,
+      "visual": "Astra leaps headfirst off the crane into the rainy night, diving at high velocity towards the reinforced glass dome of Apex Tower.",
+      "camera": "Dynamic tracking shot following Astra's rapid descent, camera rotating 180 degrees around her freefalling body.",
+      "dialogue": "Astra: (Exhales deeply) Just like falling asleep... except with dynamic entry.",
+      "video_prompt": "Anime action scene, dynamic downward angle, Astra Hawk freefalling through rain and neon haze, sky-high glass dome approaching below, wind whipping her blonde hair, high velocity cinematic motion blur."
+    },
+    {
+      "scene": 4,
+      "duration": 8,
+      "visual": "Astra fires dual energy tether cables, smashes through the skylight in a shower of glass, and lands smoothly inside the high-tech vault room.",
+      "camera": "Low angle looking up as glass shatters downward, fast zoom in as Astra touches down in a dynamic three-point hero landing.",
+      "dialogue": "Astra: Pardon the violent entrance, gentlemen.",
+      "video_prompt": "Modern anime style, glass shattering downward in slow motion, blonde anime girl landing gracefully on metal floor, high-tech interior vault, blue neon accents, energy sparks flying."
+    },
+    {
+      "scene": 5,
+      "duration": 8,
+      "visual": "Red emergency lights flood the vault. Wall panels slide open to reveal six sleek black security droids emerging with glowing red eye-visors and charging plasma rifles.",
+      "camera": "Fast whip-pan across the security perimeter showing the droids emerging and aiming their weapons directly at Astra.",
+      "dialogue": "Vault AI: Unidentified intruder detected. Lethal force authorized.",
+      "video_prompt": "Anime scene, sleek futuristic security droids sliding out of metallic wall panels, red glowing eye visors, charging plasma weapons, flashing red emergency lighting in futuristic vault room."
+    },
+    {
+      "scene": 6,
+      "duration": 8,
+      "visual": "Astra draws twin plasma daggers from her belt harness. The cyan glow of her falcon tattoo intensifies, surging straight into the glowing blades.",
+      "camera": "Medium shot of Astra igniting her plasma blades, camera circling her swiftly as she drops into a low, agile combat stance.",
+      "dialogue": "Astra: Lethal force? That's my absolute favorite language.",
+      "video_prompt": "High quality anime illustration, Astra Hawk igniting twin light daggers, blonde hair moving, intense combat gaze, glowing falcon tattoo on shoulder, dynamic ready stance."
+    },
+    {
+      "scene": 7,
+      "duration": 8,
+      "visual": "Astra dashes forward with hyper-speed, leaving bright cyan light trails as she swiftly slices through two security droids in a flash of sparks.",
+      "camera": "Fast side-scrolling tracking shot following Astra's lightning-fast dashes and precision blade strikes.",
+      "dialogue": "Astra: One, two... try to keep up!",
+      "video_prompt": "Anime fast action sequence, motion trails, blonde girl slicing sleek droids with cyan light daggers, sparks and explosion flashes, high key animation frame action."
+    },
+    {
+      "scene": 8,
+      "duration": 8,
+      "visual": "A massive mech-commander droid drops from the ceiling, firing a heavy red laser beam. Astra leaps sideways onto the vertical glass wall, running along it to evade the blast.",
+      "camera": "Tilted Dutch angle tracking shot as Astra runs vertically along the glass wall while explosions erupt right behind her heels.",
+      "dialogue": "Astra: You're going to need a much bigger targeting system!",
+      "video_prompt": "Anime combat sequence, female character running vertically up glass wall, huge robot firing red laser beam destroying wall behind her, dynamic perspective, intense particle effects."
+    },
+    {
+      "scene": 9,
+      "duration": 8,
+      "visual": "Astra pushes off the wall into mid-air. Her falcon tattoo blazes brilliant blue, erupting into two massive ethereal wings of light energy across her back.",
+      "camera": "Extreme close-up on the falcon tattoo glowing intensely, rapidly pulling back to reveal radiant light wings spreading wide.",
+      "dialogue": "Astra: Wings up! Falcon Core... full output!",
+      "video_prompt": "Epic anime power-up shot, blonde heroine Astra Hawk sprouting huge ethereal cyan energy falcon wings from her back tattoo, bright glowing light, airborne dynamic pose."
+    },
+    {
+      "scene": 10,
+      "duration": 8,
+      "visual": "Astra swoops downward at sonic speed, performing a powerful cross-cut slash through the mech commander droid, causing it to split and explode into a golden fireball.",
+      "camera": "Slow-motion impact frame as Astra strikes through the giant robot, followed by a sudden burst of speed as the background ignites.",
+      "dialogue": "Astra: Down for the count!",
+      "video_prompt": "Anime climax fight, character slicing giant mech with light wings in slow motion impact frame, huge fiery explosion expanding behind her, dramatic high contrast lighting."
+    },
+    {
+      "scene": 11,
+      "duration": 8,
+      "visual": "Astra swoops toward the vault pedestal, snatching the radiant Solar Aegis core just as the room's self-destruct counter reaches 00:03.",
+      "camera": "Tight zoom on Astra's gloved hand snatching the glowing power orb from its magnetic floating base, tracking up to her cocky smirk.",
+      "dialogue": "Astra: Gotcha. Time to make a grand exit.",
+      "video_prompt": "Anime detail shot, Astra grabbing glowing golden futuristic power orb, self-destruct red warning screens in background, confident expression, medium blonde hair."
+    },
+    {
+      "scene": 12,
+      "duration": 8,
+      "visual": "Astra bursts outward through the tower's heavy glass wall into the night sky as the entire vault room behind her erupts into a violent fireball.",
+      "camera": "Wide exterior cinematic shot of the Apex Tower exploding as Astra rockets out into the night framed by her brilliant wings.",
+      "dialogue": "Astra: (Laughter) Woohoo! Never getting tired of that exit strategy!",
+      "video_prompt": "Cinematic anime wide shot, skyscraper wall exploding into fiery orange flames, blonde heroine bursting out into sky with cyan wings, dramatic night backdrop."
+    },
+    {
+      "scene": 13,
+      "duration": 8,
+      "visual": "Dawn breaks over Neo-Veridia. Astra glides gracefully through golden clouds, holding the safe power core close to her heart as she smiles down at the peaceful city.",
+      "camera": "Smooth side-profile camera glide shifting to a front close-up of Astra smiling warmly into the rising morning sun.",
+      "dialogue": "Narration: As long as the skies stay open, Neo-Veridia will never fall into darkness. My night is over... but the city's dawn is just beginning.",
+      "video_prompt": "Beautiful anime ending shot, sunrise golden lighting, Astra Hawk gliding peacefully through clouds with ethereal cyan wings, holding glowing core, warm smile, blonde hair blowing in morning wind."
+    }
+  ]
+}
