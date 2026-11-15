@@ -1,0 +1,110 @@
+{
+  "title": "Astra Hawk: Wings of Neo-Skylark",
+  "description": "Watch Astra Hawk battle rogue mechs high above Neo-Skylark City to reclaim the stolen Sol-Core! An original action-packed sci-fi anime short by Astra Hawk Anime Studio.",
+  "scenes": [
+    {
+      "scene": 1,
+      "duration": 8,
+      "visual": "Sunset over the sprawling futuristic sky-city of Neo-Skylark. Astra Hawk, an 18-year-old female warrior with medium-length blonde hair and a sleek dark pilot jacket, stands on the ledge of a towering skyscraper.",
+      "camera": "Wide panoramic pan across the neon sky-city, quickly zooming in to a full-body side shot of Astra standing at the edge.",
+      "dialogue": "Astra (Narration): They thought they could steal the city's heart and hide in the clouds. They thought wrong.",
+      "video_prompt": "High quality anime aesthetic, 8k, sunset over floating futuristic city, 18-year-old female anime character Astra Hawk with blonde medium-length hair wearing pilot jacket, standing at skyscraper edge, dynamic lighting."
+    },
+    {
+      "scene": 2,
+      "duration": 8,
+      "visual": "Astra leaps off the skyscraper into a freefall through the clouds. The dark blue falcon tattoo on her left upper arm begins to glow with faint blue energy.",
+      "camera": "Dynamic downward tracking camera following Astra freefalling, focusing on her medium-length blonde hair whipping in the wind and the glowing tattoo on her arm.",
+      "dialogue": "Astra: Glide wings active in three... two... one!",
+      "video_prompt": "Action anime freefall scene, Astra Hawk diving through neon clouds, medium-length blonde hair flutter, detailed close-up of dark blue falcon tattoo glowing blue on left arm."
+    },
+    {
+      "scene": 3,
+      "duration": 8,
+      "visual": "Energy glider wings deploy from Astra's back. She swoops down and lands gracefully onto the metallic deck of a massive floating cargo air-barge.",
+      "camera": "Low-angle tracking shot as Astra slides across the metal deck, blue friction sparks flying beneath her boots.",
+      "dialogue": "Astra: Touchdown on the rogue vessel. Time to clean house.",
+      "video_prompt": "Anime landing sequence, Astra Hawk sliding on dark metallic barge deck, blue energy sparks, glowing glider wings folding away, sharp anime lines."
+    },
+    {
+      "scene": 4,
+      "duration": 8,
+      "visual": "A squad of heavily armored rogue security droids emerges from the barge hold, their glowing crimson optics targeting Astra.",
+      "camera": "Slow pan across the line of menacing mechanical droids powering up heavy energy cannons.",
+      "dialogue": "Security Droid (V.O.): Intruder detected. Target identified as Astra Hawk. Execute target.",
+      "video_prompt": "Sci-fi anime battle setup, menacing combat droids with glowing red eye sensors aiming weapons on industrial air-barge deck, high contrast lighting."
+    },
+    {
+      "scene": 5,
+      "duration": 8,
+      "visual": "Astra draws her dual plasma sabers from her belt. A confident, determined smirk appears on her face as her blue eyes flash with energy.",
+      "camera": "Tight close-up on Astra's face, panning down to her hands igniting twin cyan energy blades.",
+      "dialogue": "Astra: You mechanical rust-buckets picked the wrong sky to mess with!",
+      "video_prompt": "Anime close-up shot, 18-year-old female blonde warrior with vibrant blue eyes smirking, igniting bright cyan plasma blades, dramatic rim lighting."
+    },
+    {
+      "scene": 6,
+      "duration": 8,
+      "visual": "Astra dashes forward with explosive speed, weaving between incoming red laser fire and cutting down two security droids in a single fluid spin.",
+      "camera": "Fast-paced circular orbit shot tracking Astra's lightning-fast blade strikes and slicing movements.",
+      "dialogue": "Astra: Haaah! Too slow!",
+      "video_prompt": "High speed anime combat, blonde female swordmaster slicing through security robots with cyan plasma trails, robotic sparks and explosions."
+    },
+    {
+      "scene": 7,
+      "duration": 8,
+      "visual": "Astra backflips away from a heavy laser blast. As she lands on one knee, the falcon tattoo on her left arm flashes intensely with brilliant golden-blue light.",
+      "camera": "Slow-motion capture of Astra mid-backflip, zooming into her glowing left arm as energy surges through her veins.",
+      "dialogue": "Astra (Narration): The Hawk Crest is fully charged... time to end this dance.",
+      "video_prompt": "Anime slow-motion acrobatics, female hero dodging blast mid-air, close-up on falcon tattoo blazing with golden-blue magic energy aura."
+    },
+    {
+      "scene": 8,
+      "duration": 8,
+      "visual": "Astra channels the tattoo's energy into her right plasma blade, manifesting a giant spectral falcon aura around her entire body.",
+      "camera": "Low-angle push-in shot as the giant energy falcon erupts around Astra, blowing away surrounding debris.",
+      "dialogue": "Astra: Sol-Drive... Maximum Overdrive!",
+      "video_prompt": "Anime power-up sequence, blonde female character enveloped by giant glowing cyan and gold falcon energy guardian, bright visual effects."
+    },
+    {
+      "scene": 9,
+      "duration": 8,
+      "visual": "The barge deck splits open, and a colossal Mech-Titan rises from below. The stolen, pulsating Sol-Core is visible inside its armored chest plate.",
+      "camera": "Dramatic tilt-up shot revealing the enormous scale of the dark Mech-Titan looming over Astra.",
+      "dialogue": "Mech-Titan (V.O.): Sol-Core integration complete. You cannot save Neo-Skylark.",
+      "video_prompt": "Imposing anime mecha reveal, giant dark Mech-Titan rising, bright glowing blue core in chest cavity, casting heavy shadow over Astra Hawk."
+    },
+    {
+      "scene": 10,
+      "duration": 8,
+      "visual": "Astra launches into the air using her thrusters, soaring directly toward the giant Mech-Titan's chest core with both sabers raised.",
+      "camera": "High-angle point-of-view tracking shot following Astra rocket-boosting through the air toward the giant mecha.",
+      "dialogue": "Astra: Watch me!",
+      "video_prompt": "Dynamic anime aerial charge, Astra Hawk rocket-flying upward toward giant mecha chest, energy blades trailing light in the night sky."
+    },
+    {
+      "scene": 11,
+      "duration": 8,
+      "visual": "Astra delivers a cross-cut slash through the Mech-Titan's chest armor in the shape of a diving falcon, grabbing the glowing Sol-Core as she slices through.",
+      "camera": "Impact freeze-frame shot with intense speed lines, followed by Astra ripping the radiant orb out of the mecha.",
+      "dialogue": "Astra: Celestial Falcon Strike!",
+      "video_prompt": "Climactic anime finisher strike, falcon-shaped energy cut slicing mecha armor, heroine snatching glowing power core, intense slash effects."
+    },
+    {
+      "scene": 12,
+      "duration": 8,
+      "visual": "The giant Mech-Titan erupts into a massive shockwave of blue explosion fragments behind Astra as she alights smoothly onto the edge of the barge deck.",
+      "camera": "Medium tracking shot of Astra landing in a cool pose, giant blue explosions detonating dramatically in the background.",
+      "dialogue": "Astra: Target neutralized. Core recovered.",
+      "video_prompt": "Classic anime hero landing, huge energy explosion behind Astra Hawk, blonde hair flowing, holding glowing orb safely in hand."
+    },
+    {
+      "scene": 13,
+      "duration": 8,
+      "visual": "Dawn breaks over Neo-Skylark City, casting warm golden sunlight over the sky. Astra stands proudly, holding the bright Sol-Core as her falcon tattoo returns to normal.",
+      "camera": "Slow zoom out to a breathtaking final shot of Astra watching the sunrise illuminate the floating paradise city.",
+      "dialogue": "Astra: As long as I fly these skies, Neo-Skylark will never fall. Mission complete.",
+      "video_prompt": "Beautiful anime ending scene, golden sunrise lighting up floating sky city, Astra Hawk smiling warmly holding power core, epic satisfying cinematic finish."
+    }
+  ]
+}
