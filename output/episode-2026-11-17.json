@@ -1,0 +1,102 @@
+{
+  "title": "Wings of the Cyber-Sky: Astra's First Flight",
+  "description": "Follow 18-year-old pilot Astra Hawk as she defends the neon metropolis of Neo-Aethelgard from a surprise rogue drone invasion using her mysterious cybernetic power.",
+  "scenes": [
+    {
+      "scene": 1,
+      "duration": 8,
+      "visual": "Dark storm clouds gather over the gleaming futuristic cityscape of Neo-Aethelgard as hundreds of glowing red rogue drones swarm the skyline.",
+      "camera": "Wide panoramic pan sweeping across high-tech skyscrapers under attack.",
+      "dialogue": "Astra (Narration): 'They thought the sky belonged to the swarm. They forgot who owned the wind.'",
+      "video_prompt": "Futuristic anime cityscape at night, red lighting, rogue killer drones swarming between neon skyscrapers, rain falling, dark clouds, epic scale, cinematic anime style."
+    },
+    {
+      "scene": 2,
+      "duration": 8,
+      "visual": "Astra Hawk stands atop a soaring launch tower. She is an 18-year-old girl with medium-length blonde hair fluttering in the wind, wearing a blue high-collared pilot jacket.",
+      "camera": "Medium shot zooming slowly into Astra's resolute profile.",
+      "dialogue": "Astra: 'System check complete. Sky-Glider online.'",
+      "video_prompt": "Anime girl Astra Hawk, 18 years old, blonde medium length hair fluttering in wind, wearing sleek leather flight jacket, rooftop skyscraper, anime art style, hyper detailed."
+    },
+    {
+      "scene": 3,
+      "duration": 8,
+      "visual": "Close-up on Astra's left arm as she pulls back her jacket sleeve, revealing a glowing blue falcon tattoo etched into her skin that pulses with cybernetic energy.",
+      "camera": "Extreme close-up panning down her arm as the tattoo lights up.",
+      "dialogue": "Astra: 'Wake up, old friend. Let's show them how a hawk hunts.'",
+      "video_prompt": "Close-up anime shot of a girl's left forearm showing a glowing neon-blue falcon tattoo glowing brighter, cybernetic circuitry effect under skin, high quality anime animation."
+    },
+    {
+      "scene": 4,
+      "duration": 8,
+      "visual": "Astra leaps off the ledge into open air. Hard-light wing boosters erupt from her back harness, casting a bright cyan trail across the night sky.",
+      "camera": "Low angle dynamic tracking shot following her fall before she zooms forward.",
+      "dialogue": "Astra: 'Wings engage!'",
+      "video_prompt": "Anime action scene, Astra leaping into freefall off skyscraper, hard-light energy wings deploying, bright blue thrusters, dynamic motion blur, high speed anime flight."
+    },
+    {
+      "scene": 5,
+      "duration": 8,
+      "visual": "Astra weaves through intense plasma crossfire from three pursuing interceptor drones, executing an tight barrel roll between high-tension power lines.",
+      "camera": "Fast-paced third-person chase camera tracking behind Astra as she maneuvers.",
+      "dialogue": "Astra: 'Too slow, tin cans!'",
+      "video_prompt": "Dynamic anime chase, blonde girl flying on energy wings dodging red lasers, tight acrobatic moves around neon city structures, fast anime action camera."
+    },
+    {
+      "scene": 6,
+      "duration": 8,
+      "visual": "Astra draws twin dual energy-blade pistols from her waist holsters, her blue eyes gleaming with focused determination.",
+      "camera": "Tight front shot looking directly at Astra as she aims forward mid-flight.",
+      "dialogue": "Astra: 'Target lock acquired!'",
+      "video_prompt": "Frontal view anime shot of Astra Hawk flying forward, blonde hair, blue eyes, holding two glowing blue energy pistols, resolute expression, detailed anime illustration."
+    },
+    {
+      "scene": 7,
+      "duration": 8,
+      "visual": "Astra flips upside down mid-air, firing a volley of light bursts that slice through three enemy drones, causing brilliant orange explosions behind her.",
+      "camera": "360-degree rotational camera around Astra as she fires her weapons.",
+      "dialogue": "Astra: 'Direct hit! Vanguard cleared!'",
+      "video_prompt": "Anime battle sequence, character flips mid-air, firing plasma pistols, destroying three mechanical drones, fiery explosions, smoke, brilliant lighting effects."
+    },
+    {
+      "scene": 8,
+      "duration": 8,
+      "visual": "A massive mothership drone emerges from the clouds, charging a giant laser cannon aimed directly at the city's central power core reactor.",
+      "camera": "Low angle tilt up showing the colossal scale of the black and red enemy leviathan.",
+      "dialogue": "City AI (V.O.): 'Warning: Critical energy surge detected in sector seven.'",
+      "video_prompt": "Enormous villain mechanical leviathan spaceship in anime style, glowing red energy core charging, dark storm clouds, city in background, ominous atmosphere."
+    },
+    {
+      "scene": 9,
+      "duration": 8,
+      "visual": "Astra lands gracefully onto the hull of the mothership, magnetic boots locking into place amidst intense electrical arcs.",
+      "camera": "Medium tracking shot as Astra slides onto the metallic surface of the enemy ship.",
+      "dialogue": "Astra: 'I won't let you tear down my home!'",
+      "video_prompt": "Anime hero Astra landing on top of a giant dark spaceship hull, sparks flying, magnetic landing impact, anime action pose, dark stormy sky."
+    },
+    {
+      "scene": 10,
+      "duration": 8,
+      "visual": "Astra presses her glowing left arm directly against the ship's control panel. Her falcon tattoo blazes with radiant golden-blue light, spreading cybernetic vines across the metal.",
+      "camera": "Close-up on the contact point as energy flows rapidly from her falcon tattoo into the vessel.",
+      "dialogue": "Astra: 'Overdrive protocol: Astral Dive!'",
+      "video_prompt": "Extreme close-up anime shot, glowing blue falcon tattoo on arm touching a control console, massive surge of golden-blue light spreading across futuristic machinery."
+    },
+    {
+      "scene": 11,
+      "duration": 8,
+      "visual": "A massive falcon-shaped avatar made of pure blue plasma erupts from Astra, piercing straight through the mothership's main energy core in a blinding flash.",
+      "camera": "Wide dynamic pull-out showing the colossal ethereal falcon shattering the mothership.",
+      "dialogue": "Astra: 'Soar free!'",
+      "video_prompt": "Epic anime explosion climax, huge blue glowing energy falcon soaring through a shattering giant mothership, blinding light beams, masterpiece visual fx."
+    },
+    {
+      "scene": 12,
+      "duration": 8,
+      "visual": "The storm clears revealing a serene starry night. Astra hovers peacefully over the unharmed glowing city, her falcon tattoo dimming to a soft, warm light as she smiles.",
+      "camera": "Slow orbit shot around Astra hovering gracefully, descending into a quiet wide shot of the peaceful city.",
+      "dialogue": "Astra: 'As long as these wings hold, Neo-Aethelgard will never fall.'",
+      "video_prompt": "Peaceful anime ending shot, 18-year-old Astra Hawk hovering gently in clear night sky above glowing neon city, blonde hair floating, gentle smile, serene starry skies."
+    }
+  ]
+}
