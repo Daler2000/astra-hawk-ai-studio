@@ -1,0 +1,110 @@
+{
+  "title": "Astra Hawk: Wings of the Cyber-Grid",
+  "description": "When a rogue AI threatens to corrupt Neo-Metropolis, 18-year-old cyber-hunter Astra Hawk dives into the digital abyss to reclaim the Core Data Matrix before total blackout.",
+  "scenes": [
+    {
+      "scene": 1,
+      "duration": 8,
+      "visual": "Nighttime in Neo-Metropolis. High above the glowing cyberpunk skyscrapers, 18-year-old Astra Hawk stands on a narrow gargoyle ledge. She has medium-length blonde hair blowing in the neon breeze, wearing a sleek black and teal stealth suit. A glowing cyan falcon tattoo shines on her exposed left arm.",
+      "camera": "Slow panoramic pan around Astra Hawk, starting from a wide shot of the glittering city skyline to a medium close-up of her profile.",
+      "dialogue": "Astra (Narration): 'The city sleeps, blissfully unaware of the virus eating away at its heart. But I see it.'",
+      "video_prompt": "Anime style, high quality 4k render. Astra Hawk, an 18-year-old anime girl with medium blonde hair, blue eyes, wearing a black and cyan sci-fi stealth suit. Distinct glowing cyan falcon tattoo on left upper arm. Standing atop a cyberpunk skyscraper at night, dynamic neon lights."
+    },
+    {
+      "scene": 2,
+      "duration": 8,
+      "visual": "Astra lowers her high-tech visor over her eyes, HUD displaying target locking on the central mainframe tower below. She smirks with confidence, her blonde hair catching the purple neon light.",
+      "camera": "Tight close-up on Astra's face, tracking down to her smirk, followed by a sudden zoom out as she tilts backward off the building edge.",
+      "dialogue": "Astra: 'Time to clean up the code.'",
+      "video_prompt": "Anime style. Close up of 18-year-old blonde female cyber hero Astra Hawk wearing futuristic visor. Glowing falcon tattoo on left arm visible. She smirks and dives backwards into air off a high-rise ledge."
+    },
+    {
+      "scene": 3,
+      "duration": 8,
+      "visual": "Astra freefalls between towering glass skyscrapers, holographic ads reflecting off her visor. Streams of red corrupted digital code flash around her down in the alleyways.",
+      "camera": "Dynamic downward tracking shot following Astra rapidly descending, rotating camera angle to emphasize verticality and speed.",
+      "dialogue": "Astra (Narration): 'Vortex Prime thinks it can hide in the server grid. Too bad for him, hawks always spot their prey.'",
+      "video_prompt": "Anime action sequence. Blonde 18-year-old female anime character Astra Hawk falling fast through a vertical futuristic cyberpunk city alley, dynamic motion lines, glowing red corrupt matrix code around her."
+    },
+    {
+      "scene": 4,
+      "duration": 8,
+      "visual": "Astra lands gracefully on a glass skylight of the Mainframe Vault in a 3-point superhero pose. Impact ripples of cyan energy radiate from her feet, crackling up to her left arm's falcon tattoo.",
+      "camera": "Low angle ground shot capturing her impact, quickly whipping around to frame her as she stands upright and activates twin plasma daggers.",
+      "dialogue": "Astra: 'Found you.'",
+      "video_prompt": "Anime style. 18-year-old female hero Astra Hawk landing gracefully on glass rooftop, cyan shockwave. Medium blonde hair, glowing cyan falcon tattoo on her left arm bright with energy. Drawing glowing cyan plasma energy blades from gauntlets."
+    },
+    {
+      "scene": 5,
+      "duration": 8,
+      "visual": "Inside the vast dark vault, the corrupted AI construct 'Vortex Prime' materializes—a terrifying giant dragon made of glitched red data cubes and jagged crimson tendrils.",
+      "camera": "Low angle wide shot looking up at the towering red glitched dragon monster as it rears back and unleashes a digital roar.",
+      "dialogue": "Vortex Prime: 'INTRUDER DETECTED. PURGING ASTRA HAWK.'",
+      "video_prompt": "Anime style sci-fi battle. Giant glitched red digital code dragon monster roaring inside a dark server room chamber. Red particle effects and neon glitch artifacts."
+    },
+    {
+      "scene": 6,
+      "duration": 8,
+      "visual": "Vortex Prime fires a volley of sharp crimson data spikes. Astra flips sideways across server racks, dodging every projectile with incredible agility, leaving trail lines of yellow and teal light.",
+      "camera": "Fast side-scrolling tracking shot, keeping Astra centered as she performs backflips and side-steps past exploding red spikes.",
+      "dialogue": "Astra: 'Your firewalls are outdated, giant guy!'",
+      "video_prompt": "Anime action dynamic motion. Astra Hawk, 18yo blonde female anime character with glowing falcon tattoo on left arm, doing mid-air backflips to dodge red laser spikes in a futuristic server room."
+    },
+    {
+      "scene": 7,
+      "duration": 8,
+      "visual": "Astra skids to a halt. She focuses her power; the falcon tattoo on her left arm flares with intense radiant wings of golden and cyan light that spread out behind her back.",
+      "camera": "Extreme close-up on Astra's left arm showing the glowing falcon tattoo surging with energy, zooming out as golden light wings erupt from her back.",
+      "dialogue": "Astra: 'Falcon Protocol: Full Synchronization!'",
+      "video_prompt": "Anime power-up sequence. Close up on 18-year-old Astra Hawk's left arm falcon tattoo glowing intensely. Massive holographic wings of golden and cyan energy burst from her back, illuminating her blonde hair."
+    },
+    {
+      "scene": 8,
+      "duration": 8,
+      "visual": "Astra launches into the air at supersonic speed, flying directly towards the chest of the digital dragon beast with both energy daggers raised ahead.",
+      "camera": "First-person dynamic perspective over Astra's shoulder as she streaks forward, trailing golden wing-trails toward the giant red monster.",
+      "dialogue": "Astra: 'Let's see how you handle real light!'",
+      "video_prompt": "Anime flying action shot. Astra Hawk, blonde female with golden energy wings behind her, rocketing forward at high speed into a glitched red dragon monster in a cyber vault."
+    },
+    {
+      "scene": 9,
+      "duration": 8,
+      "visual": "Vortex Prime snaps its massive glitched jaws, but Astra slices clean through its snout with her cyan blades in a brilliant flash of neon lines.",
+      "camera": "Slow-motion slash shot, camera spinning 180 degrees around Astra as her blades cut through glowing red code blocks.",
+      "dialogue": "Vortex Prime: 'CRITICAL ERROR—SYSTEM... FAILING...'",
+      "video_prompt": "Anime battle slice effect. Astra Hawk slicing through a red digital beast with dual glowing cyan blades. Sparkles of light, red code disintegrating into dust, epic anime slow motion."
+    },
+    {
+      "scene": 10,
+      "duration": 8,
+      "visual": "Astra alights directly onto the beast's core chest. She presses her left hand—tattoo glowing brilliantly—flat against the red corruption core.",
+      "camera": "Medium shot pushing in close as Astra presses her left palm onto the core, cyan light overpowering the red glitch textures.",
+      "dialogue": "Astra: 'System Restore: INITIATE!'",
+      "video_prompt": "Anime style shot. 18-year-old blonde girl Astra Hawk pressing left hand onto a glowing red core. Falcon tattoo on her left arm releases massive cyan pulse waves, cleansing corrupt red code."
+    },
+    {
+      "scene": 11,
+      "duration": 8,
+      "visual": "A massive blinding explosion of pure white and cyan light erupts from the monster. The dark server vault dissolves into floating pristine blue light particles.",
+      "camera": "Wide shot pulling back rapidly as the shockwave of pure light cleanses the entire room, dissolving the red glitch dragon into golden code.",
+      "dialogue": "Astra (Narration): 'Corruption purged. System integrity restored.'",
+      "video_prompt": "Anime energy explosion. White and cyan light shockwave purging dark corrupt atmosphere. Red glitch dragon disintegrates into glowing harmless blue particles."
+    },
+    {
+      "scene": 12,
+      "duration": 8,
+      "visual": "The vault calms down. Astra catches a floating golden cube—the Core Data Matrix—in her hand. Her energy wings fade back into her left arm tattoo, which dims to a gentle blue glow.",
+      "camera": "Medium shot of Astra catching the golden artifact, bringing it close to her chest. Camera slowly orbits her peaceful face.",
+      "dialogue": "Astra: 'Safe and sound. Neo-Metropolis lives to see another sunrise.'",
+      "video_prompt": "Anime style calm moment. Astra Hawk, 18yo blonde anime girl with glowing falcon tattoo on left arm, holding a small glowing golden core cube. Soft ambient lighting, triumphant smile."
+    },
+    {
+      "scene": 13,
+      "duration": 8,
+      "visual": "At dawn, Astra stands atop the highest spire of Neo-Metropolis. The golden sun reaches over the horizon, bathing the city in warm light. Astra clips the Matrix to her belt, wind blowing her blonde hair, and smiles brightly at the new morning.",
+      "camera": "Wide cinematic shot sweeping around Astra Hawk against a breathtaking golden anime sunrise, concluding on a heroic medium shot of her smiling profile.",
+      "dialogue": "Astra: 'As long as I'm flying this sky... the grid belongs to the light.'",
+      "video_prompt": "Anime sunrise cinematic scene. Astra Hawk, 18 years old, blonde medium hair, wearing sci-fi suit, prominent falcon tattoo on left arm, standing heroically atop a futuristic tower at dawn. Warm golden sunlight, inspiring final frame."
+    }
+  ]
+}
