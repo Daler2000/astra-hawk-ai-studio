@@ -1,0 +1,110 @@
+{
+  "title": "Astra Hawk: Wings of the Aegis - Episode 1: Skyfire",
+  "description": "Join Astra Hawk, an 18-year-old sky-runner with a mysterious falcon mark, as she battles a rogue Titan drone across the floating cityscape of Aetheria to retrieve the stolen Hyper-Core.",
+  "scenes": [
+    {
+      "scene": 1,
+      "duration": 8,
+      "visual": "A vast futuristic floating city named Aetheria sits high above a sea of clouds. Wind sweeps across tall metallic spires under a golden twilight sky.",
+      "camera": "Wide panoramic shot slowly panning right across the skyline, dropping down toward a high spire.",
+      "dialogue": "Narration: In the skies above Aetheria, freedom isn't given. It's earned in the clouds.",
+      "video_prompt": "Cyberpunk anime style, panoramic view of a floating sci-fi city surrounded by clouds at sunset, golden light, high quality animation."
+    },
+    {
+      "scene": 2,
+      "duration": 8,
+      "visual": "Astra Hawk stands on the extreme edge of a skyscraper ledge. Her medium-length blonde hair whips wild in the wind. A dark falcon tattoo is visibly etched onto her bare left arm.",
+      "camera": "Low angle shot tilting up from her combat boots to her determined face, highlighting the falcon tattoo.",
+      "dialogue": "Astra Hawk: Target acquired. The rogue core is moving fast. Time to clip its wings.",
+      "video_prompt": "Anime girl, 18 years old, medium-length blonde hair blowing in high-altitude wind, sharp gaze, falcon tattoo on left arm, standing on edge of skyscraper."
+    },
+    {
+      "scene": 3,
+      "duration": 8,
+      "visual": "A massive armored Titan drone bursts up through the cloud deck below, its heavy thrusters burning purple light as it grips a glowing blue Hyper-Core.",
+      "camera": "Fast whip-pan upward following the explosive entrance of the massive mechanical drone.",
+      "dialogue": "Astra Hawk: You picked the wrong airspace, rust bucket!",
+      "video_prompt": "Sci-fi anime action, giant mechanical war drone emerging from thick white clouds, carrying a glowing blue orb, jet thrusters flashing."
+    },
+    {
+      "scene": 4,
+      "duration": 8,
+      "visual": "Astra leaps off the ledge into open sky. Mid-fall, her tech-boots ignite with blue energy thrusters, launching her forward at breakneck speed.",
+      "camera": "Dynamic tracking shot following Astra in a freefall before catching up as her boot boosters fire.",
+      "dialogue": "Astra Hawk: Overdrive, initiate!",
+      "video_prompt": "Anime action scene, blonde female protagonist leaping off skyscraper, mid-air freefall, jet-boots bursting with blue light energy."
+    },
+    {
+      "scene": 5,
+      "duration": 8,
+      "visual": "Astra weaves effortlessly through a volley of red laser fire launched from the drone's side turrets as she hurtles through the air.",
+      "camera": "Third-person chase camera moving rapidly alongside Astra as she barrel-rolls through laser beams.",
+      "dialogue": "Astra Hawk: Too slow! Is that all your targeted AI can handle?",
+      "video_prompt": "Fast-paced anime flight scene, blonde girl dodging red laser beams in mid-air, energetic motion blur, vibrant sci-fi FX."
+    },
+    {
+      "scene": 6,
+      "duration": 8,
+      "visual": "Extreme close-up of Astra's eyes narrowing in intense concentration. The falcon tattoo on her left arm glows with an ethereal blue aura.",
+      "camera": "Zooming rapidly into Astra's face, panning down to her glowing left arm tattoo.",
+      "dialogue": "Narration: The mark of the Hawk awakens when the sky demands a guardian.",
+      "video_prompt": "Anime close-up, blue-eyed blonde female character with glowing blue falcon tattoo on arm, intense action focus, aura effect."
+    },
+    {
+      "scene": 7,
+      "duration": 8,
+      "visual": "Astra performs a backflip in mid-air, dodging a heat-seeking missile that detonates behind her in a brilliant explosion of orange flame.",
+      "camera": "Slow-motion rotation around Astra as the explosion illuminates her silhouette.",
+      "dialogue": "Astra Hawk: Lock-on broken!",
+      "video_prompt": "Cinematic anime slow-motion backflip in sky, large fire explosion in background glowing bright orange, hero character silhouette."
+    },
+    {
+      "scene": 8,
+      "duration": 8,
+      "visual": "Astra lands heavily onto the metallic hull of the giant drone, her boots creating sparks as she grips the armor plating.",
+      "camera": "Rapid zoom-in onto the point of impact on top of the flying mech, tracking sparks flying past.",
+      "dialogue": "Astra Hawk: Gotcha!",
+      "video_prompt": "Anime hero landing on top of giant metal flying drone, sparks flying, wind rushing past, intense grip."
+    },
+    {
+      "scene": 9,
+      "duration": 8,
+      "visual": "The drone dives into a dark storm cloud layer to shake her off. Electric lightning flashes around Astra, illuminating her fierce expression.",
+      "camera": "Shaky cam effect inside turbulent grey clouds, lit up by stark flashes of purple and white lightning.",
+      "dialogue": "Astra Hawk: A storm? You think a little rain frightens a Hawk?",
+      "video_prompt": "Anime action inside dark storm cloud, dramatic lightning flashes illuminating blonde girl clinging to a flying machine."
+    },
+    {
+      "scene": 10,
+      "duration": 8,
+      "visual": "Astra draws her high-frequency plasma blade from her belt. The edge ignites with bright cyan energy as she prepares to strike.",
+      "camera": "Close shot of the blade drawing and charging up, reflecting blue light onto Astra's face.",
+      "dialogue": "Astra Hawk: Core extraction blade... full output!",
+      "video_prompt": "Anime weapon unsheathing, glowing cyan plasma sword powering up, close shot of blonde warrior holding glowing blade."
+    },
+    {
+      "scene": 11,
+      "duration": 8,
+      "visual": "Astra plunges her plasma blade straight into the drone's central power coupling. The drone screeches as yellow electrical surges tear through its armor.",
+      "camera": "Medium shot pushing forward as light erupts from the point of impact, shaking violently.",
+      "dialogue": "Astra Hawk: System purge!",
+      "video_prompt": "High impact anime climax, plasma blade stabbing into giant mech core, massive electrical shockwaves and light bursts."
+    },
+    {
+      "scene": 12,
+      "duration": 8,
+      "visual": "The drone breaks apart in a blinding burst of light. Astra snatches the falling Hyper-Core out of the air and deploys her wing-glider.",
+      "camera": "Wide shot of the drone exploding into light, Astra catching the orb and shooting out beyond the smoke cloud.",
+      "dialogue": "Astra Hawk: Secure!",
+      "video_prompt": "Anime sky rescue, drone exploding in background, girl catching glowing blue sphere while opening mechanical wings."
+    },
+    {
+      "scene": 13,
+      "duration": 8,
+      "visual": "Astra lands gracefully on the central control tower platform. She holds up the intact Hyper-Core as the city's power grid surges back to life in warm golden light.",
+      "camera": "Slow pull-back camera rising up to show the restored city skyline glowing brightly behind Astra.",
+      "dialogue": "Astra Hawk: Aetheria is safe tonight. The skies belong to us.",
+      "video_prompt": "Victorious anime ending scene, blonde female hero standing on tall platform holding glowing blue core, city lighting up below, sunset clouds."
+    }
+  ]
+}
