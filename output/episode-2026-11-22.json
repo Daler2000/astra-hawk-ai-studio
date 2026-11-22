@@ -1,0 +1,110 @@
+{
+  "title": "Skyfall Protocol: Wings of Astra",
+  "description": "When Neo-Skylark City's main anchor core goes into catastrophic overdrive, 18-year-old sky-renegade Astra Hawk dives into the danger zone to save the floating metropolis.",
+  "scenes": [
+    {
+      "scene": 1,
+      "duration": 8,
+      "visual": "A futuristic floating city named Neo-Skylark looms under a crimson alarm-lit sky. Sirens echo as red energy surges through the city's massive central spire.",
+      "camera": "Wide aerial pan descending rapidly toward the glowing central spire.",
+      "dialogue": "Astra (Narration): 'Neo-Skylark was built on thin air... and right now, the floor is about to give out.'",
+      "video_prompt": "Futuristic cyberpunk anime city floating in mid-air under alarm-red stormy skies, central energy tower pulsing with dangerous red lightning, high-octane 90s dynamic anime aesthetic."
+    },
+    {
+      "scene": 2,
+      "duration": 8,
+      "visual": "Inside an open bay door of a high-speed airship, 18-year-old Astra Hawk stands tall. She has medium-length blonde hair blowing in the wind, sharp blue eyes, and a sleek flight suit revealing a black falcon tattoo on her left arm.",
+      "camera": "Slow track-in starting from behind Astra, moving to a low-angle front shot highlighting her determined expression.",
+      "dialogue": "Astra: 'Core overload in three minutes. Time to do what I do best.'",
+      "video_prompt": "Anime girl Astra Hawk, 18 years old, blonde medium-length hair fluttering in high wind, black falcon tattoo on her left upper arm, wearing futuristic leather flight harness, standing at open airship cargo door."
+    },
+    {
+      "scene": 3,
+      "duration": 8,
+      "visual": "Astra leaps backward out of the airship, falling freeform through the sky surrounded by burning cloud cover and floating debris.",
+      "camera": "Extreme dynamic tracking shot following Astra in freefall as the camera rotates around her body.",
+      "dialogue": "Astra (Narration): 'Gravity isn't an enemy when you know how to talk to the sky.'",
+      "video_prompt": "Dynamic anime skydiving sequence, blonde female protagonist diving through storm clouds, realistic air resistance physics, anime action framing, cinematic wind trails."
+    },
+    {
+      "scene": 4,
+      "duration": 8,
+      "visual": "A fleet of automated defense drones swarms Astra, locking onto her with laser targets and firing plasma blasts.",
+      "camera": "Fast-paced whip pans following red laser beams grazing past Astra as she dodges mid-air.",
+      "dialogue": "Astra: 'Get out of my way!'",
+      "video_prompt": "Anime action scene, blonde heroine dodging red laser fire from swarming mechanical combat drones high above a sci-fi city skyline."
+    },
+    {
+      "scene": 5,
+      "duration": 8,
+      "visual": "Astra raises her left arm. The black falcon tattoo begins to glow with radiant blue energy, spreading light across her skin.",
+      "camera": "Tight extreme close-up on Astra's left arm tattoo as the blue energy ignites, panning up to her glowing eyes.",
+      "dialogue": "Astra: 'Awaken, Falcon Wing!'",
+      "video_prompt": "Extreme close-up of a black falcon tattoo on female anime character's left arm bursting into brilliant glowing cyan energy runes, high-energy anime power activation sequence."
+    },
+    {
+      "scene": 6,
+      "duration": 8,
+      "visual": "Huge wings of pure translucent blue energy burst from Astra's back. She stabilizes instantly in mid-air, creating a powerful shockwave.",
+      "camera": "Fast pull-back to wide shot revealing massive glowing cyan avian wings unfolding dramatically.",
+      "dialogue": "Astra (Narration): 'My wings aren't built for falling... they're built to break the barrier.'",
+      "video_prompt": "Anime heroine Astra Hawk unfolding massive ethereal blue light falcon wings in mid-air, energy shockwave dispersing surrounding storm clouds."
+    },
+    {
+      "scene": 7,
+      "duration": 8,
+      "visual": "Astra shoots forward at jet speed, cutting through three defense drones with blades formed from cyan light energy, exploding them behind her.",
+      "camera": "Side-scrolling action tracking shot, Astra dashing across the frame leaving light trails, explosions detonating in slow motion.",
+      "dialogue": "Astra: 'One! Two! Three! Clear!'",
+      "video_prompt": "High-speed anime combat, girl with cyan light wings slicing through mechanical drones with energy daggers, mid-air explosions, key animation style."
+    },
+    {
+      "scene": 8,
+      "duration": 8,
+      "visual": "Astra reaches the Spire's unstable reactor core, a massive pulsating sphere of corrupted dark-red plasma threatening to explode.",
+      "camera": "Low-angle shot looking up at the gigantic chaotic plasma core, Astra hovering small in front of it.",
+      "dialogue": "Astra: 'The containment field is completely shattered... I have to absorb the breach myself.'",
+      "video_prompt": "Giant chaotic red energy core crackling with destructive lightning inside a futuristic tower, anime style, high stakes atmosphere."
+    },
+    {
+      "scene": 9,
+      "duration": 8,
+      "visual": "A intense beam of red plasma hits Astra. She holds her arms up, her light wings curving forward to form a glowing blue shield around her.",
+      "camera": "Medium shot pushing into Astra's face, sweat on her brow, her teeth grit in defiance against the blinding red light.",
+      "dialogue": "Astra: 'I won't let this city fall! Not today!'",
+      "video_prompt": "Anime girl taking heavy energy pressure, cyan ethereal shield deflecting red plasma lightning, intense expression of determination, dynamic lighting."
+    },
+    {
+      "scene": 10,
+      "duration": 8,
+      "visual": "Astra pulls back her left arm. The falcon energy condenses into a concentrated avian spear of blinding gold and blue light around her fist.",
+      "camera": "360-degree rotation around Astra as she charges her ultimate attack, wind swirling violently around her.",
+      "dialogue": "Astra: 'Falcon Apex Drive!'",
+      "video_prompt": "Classic anime super-move charge up, glowing golden-blue aura shaping into a giant falcon head around Astra's right arm and body."
+    },
+    {
+      "scene": 11,
+      "duration": 8,
+      "visual": "Astra strikes the center of the corrupted core. A massive ring of golden-blue light pierces through the red corruption, purging the wild energy.",
+      "camera": "Zoom out to extreme wide shot as a brilliant dome of blue light expands over the entire city spire.",
+      "dialogue": "Astra: 'Purge setting... engaged!'",
+      "video_prompt": "Climactic anime explosion of brilliant blue and white energy washing away red corruption across a futuristic floating tower, glorious visual FX."
+    },
+    {
+      "scene": 12,
+      "duration": 8,
+      "visual": "The red warning lights vanish across Neo-Skylark. The central spire hums with a peaceful blue glow as the city's stabilizer anchors lock safely into place.",
+      "camera": "Smooth upward tilt from the stabilized energy core to the clear sky as golden sunset rays break through the dispersing clouds.",
+      "dialogue": "City AI Voice: 'Anchor stabilization complete. Skyfall protocol deactivated.'",
+      "video_prompt": "Futuristic floating city returning to peaceful state under a warm golden sunset sky, blue energy conduits pulsing calmly throughout spires."
+    },
+    {
+      "scene": 13,
+      "duration": 8,
+      "visual": "Astra alights gracefully on the highest balcony of the Central Spire. Her energy wings gently dissolve into soft blue sparkles. She touches her left arm falcon tattoo and grins at the calm city skyline.",
+      "camera": "Slow pan from Astra's glowing falcon tattoo up to her smiling face, ending on a wide shot of her standing triumphantly against the sunset.",
+      "dialogue": "Astra: 'Another day, another sky saved. Time to head home.'",
+      "video_prompt": "Beautiful anime ending scene, Astra Hawk, blonde hair glowing in twilight sun, standing on high tower ledge looking out at a peaceful floating city, soft light particles fading."
+    }
+  ]
+}
