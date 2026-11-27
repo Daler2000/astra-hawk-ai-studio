@@ -1,0 +1,110 @@
+{
+  "title": "Astra Hawk: Dawn of the Solar Core",
+  "description": "When the floating Aegis Citadel steals the city's power source, 18-year-old hero Astra Hawk infiltrates the sky fortress to reclaim the Solar Core and restore light to Neo-Aetherium.",
+  "scenes": [
+    {
+      "scene": 1,
+      "duration": 8,
+      "visual": "Neon-drenched skylines of Neo-Aetherium under a stormy night sky. A colossal floating citadel looms high above in the clouds. Astra stands on a high ledge in a dark cybernetic leather jacket, exposing her left arm falcon tattoo glowing faint neon blue.",
+      "camera": "Slow tilt up from her tactical boots to her face, ending on a close-up of her glowing falcon arm tattoo.",
+      "dialogue": "Astra (Narration): 'They took our heart to power their sky fortress. Tonight, I take it back.'",
+      "video_prompt": "Highly detailed anime style visual, 18-year-old female anime character Astra Hawk with blonde medium-length hair, glowing neon blue falcon tattoo on left arm, standing on a rainy skyscraper ledge overlooking a cyberpunk cityscape."
+    },
+    {
+      "scene": 2,
+      "duration": 8,
+      "visual": "Astra leaps off the skyscraper ledge into the stormy abyss, deploying twin cyan energy wings from her back armor, swooping upward towards the floating citadel's glass underbelly.",
+      "camera": "Dynamic tracking shot following Astra from behind as she dives and swoops upward against fierce wind shear.",
+      "dialogue": "Astra: 'Aegis Citadel... let's see how strong your defenses really are.'",
+      "video_prompt": "Dynamic anime action scene, blonde female protagonist Astra Hawk gliding through stormy night sky with cyan energy wings toward a massive floating futuristic citadel."
+    },
+    {
+      "scene": 3,
+      "duration": 8,
+      "visual": "Astra shatters through a glass skylight of the citadel, landing in a three-point stance inside a sterile, high-tech vault chamber lined with glowing energy conduits.",
+      "camera": "Fast pan down following her descent, landing with a slow-motion impact wave sending glass shards scattering.",
+      "dialogue": "Astra: 'Infiltrated. Time to find the Solar Core.'",
+      "video_prompt": "Anime heroine Astra Hawk landing gracefully amidst shattered glowing glass inside a futuristic metallic vault room, sparks flying, high quality anime render."
+    },
+    {
+      "scene": 4,
+      "duration": 8,
+      "visual": "Red alarm lights flash instantly across the vault. Three massive dark-steel security mechs drop from the ceiling, their glowing red optic sensors locking onto Astra.",
+      "camera": "Whip pan from Astra to the threatening mechs, zooming in sharply on their glowing red sensors.",
+      "dialogue": "Citadel AI: 'Intruder detected in Sector 4. Lethal force authorized.'",
+      "video_prompt": "Sci-fi anime fight setup, three bulky metallic mecha guards aiming heavy laser cannons at blonde anime girl Astra Hawk, flashing red alarm lighting."
+    },
+    {
+      "scene": 5,
+      "duration": 8,
+      "visual": "Astra dashes forward with superhuman agility, zig-zagging to dodge intense red plasma blasts that explode against the walls behind her. Her left arm's falcon tattoo glows brightly.",
+      "camera": "Fast side-tracking camera shot following Astra's rapid sprint across the polished vault floor.",
+      "dialogue": "Astra: 'You're gonna have to aim a lot faster than that!'",
+      "video_prompt": "High-speed anime action shot, Astra Hawk running fast dodging laser explosions, glowing falcon tattoo on left arm leaving light trails."
+    },
+    {
+      "scene": 6,
+      "duration": 8,
+      "visual": "Astra vaults off a wall, her falcon tattoo erupting into a localized shockwave of blue energy shaped like a falcon wing. She strikes the lead mech, destroying its head unit in a shower of sparks.",
+      "camera": "Low-angle dramatic mid-air freeze frame turning into a swift diagonal impact shot.",
+      "dialogue": "Astra: 'Falcon Strike!'",
+      "video_prompt": "Dynamic combat anime scene, Astra Hawk performing an aerial strike with a cyan energy falcon wing aura destroying a giant robot head, impact frame."
+    },
+    {
+      "scene": 7,
+      "duration": 8,
+      "visual": "She sweeps the legs of the second mech and spins, landing a powerful kick that hurls the third mech straight into the room's central security terminal.",
+      "camera": "Rotational camera movement smoothly circling Astra as she finishes off the remaining security units.",
+      "dialogue": "Astra: 'And that takes care of the welcome committee.'",
+      "video_prompt": "Martial arts anime sequence, Astra Hawk executing a spinning kick against sci-fi armor units, sparks and explosion smoke in background."
+    },
+    {
+      "scene": 8,
+      "duration": 8,
+      "visual": "Astra approaches the central glass pedestal housing the Solar Core—a swirling orb of brilliant golden-orange star energy pulsing with immense power.",
+      "camera": "Slow dolly zoom moving past Astra's shoulder toward the brilliantly glowing golden core.",
+      "dialogue": "Astra: 'There you are. The spark that will bring light back to my home.'",
+      "video_prompt": "Anime scene Astra Hawk looking at a floating glowing golden energy sphere inside a futuristic glass pedestal, radiant warm lighting on her face and blonde hair."
+    },
+    {
+      "scene": 9,
+      "duration": 8,
+      "visual": "Astra presses her left palm against the lock console. Her glowing falcon tattoo synchronizes with the core's energy matrix, unlocking the containment field with a loud hiss.",
+      "camera": "Extreme close-up on Astra's left arm showing the falcon tattoo glowing intensely and connecting with glowing gold circuit paths.",
+      "dialogue": "Citadel AI: 'Warning: Solar Core removal detected. Citadel structural collapse imminent.'",
+      "video_prompt": "Anime close-up shot of female character's left arm falcon tattoo glowing bright neon blue and merging with golden energy lines."
+    },
+    {
+      "scene": 10,
+      "duration": 8,
+      "visual": "Astra grabs the heavy Solar Core and locks it into her chest harness. The vault floor shakes violently as structural explosions begin tearing through the citadel.",
+      "camera": "Violent camera shake showing structural beams falling as Astra turns toward the panoramic outer window.",
+      "dialogue": "Astra: 'Guess that's my cue for a hasty exit!'",
+      "video_prompt": "Dynamic action anime scene Astra Hawk securing a glowing golden orb to her armor chest while the futuristic room collapses in fire and debris."
+    },
+    {
+      "scene": 11,
+      "duration": 8,
+      "visual": "Astra sprints full force toward the panoramic glass window and leaps straight through, diving into the open sky as the Citadel explodes into bright flames high behind her.",
+      "camera": "Wide backward tracking shot following Astra as she freefalls through shattered glass with massive explosions erupting above.",
+      "dialogue": "Astra (Narration): 'Falling is easy. Flying is where the real fun begins.'",
+      "video_prompt": "Cinematic anime shot, Astra Hawk freefalling through the night sky from an exploding sci-fi floating citadel, fire cloud in night sky."
+    },
+    {
+      "scene": 12,
+      "duration": 8,
+      "visual": "Astra flares her cyan energy wings out wide, catching the air currents just as the golden sun breaks over the horizon, lighting up the sky and revealing her city below.",
+      "camera": "Sweeping cinematic camera move circling Astra as she curves gracefully through clouds into bright morning sunlight.",
+      "dialogue": "Astra: 'Hang on, Neo-Aetherium. Your sun is coming home!'",
+      "video_prompt": "Beautiful anime flight scene, Astra Hawk soaring over a futuristic city during golden hour sunrise, cyan energy falcon wings spread wide."
+    },
+    {
+      "scene": 13,
+      "duration": 8,
+      "visual": "Astra lands gracefully atop the main spire of Neo-Aetherium and slots the Solar Core into the generator. Brilliant gold light flares outward, fully re-energizing the entire glowing city below. Astra smiles warmly, looking out over her saved home.",
+      "camera": "Grand pulling-back crane shot from Astra standing victoriously atop the spire as the entire city lights up under the sunrise.",
+      "dialogue": "Astra (Narration): 'As long as the Falcon flies, our city will never fall into darkness.'",
+      "video_prompt": "Triumphant anime finale scene, Astra Hawk standing on top of a tall futuristic tower as the entire city lights up with golden power, golden sunrise background, her medium blonde hair blowing gently in wind, confident smile."
+    }
+  ]
+}
